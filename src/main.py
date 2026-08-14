@@ -1,11 +1,5 @@
-import requests
-import math
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-
-API_KEY = os.getenv("API_KEY")
-SECRET = os.getenv("SECRET")
-
-print(SECRET)
+from datetime import datetime, date
+from api import tClient, dClient
+from alpaca.data.requests import StockBarsRequest
+from alpaca.data.timeframe import TimeFrame
+from alpaca.trading.requests import GetCalendarRequest
