@@ -1,3 +1,5 @@
 .env
 data/day/*
 data/minute/*
+!data/day/.gitkeep
+!data/minute/.gitkeep
