@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date, datetime, timedelta
 from src.api import tClient, dClient
 from alpaca.data.requests import StockBarsRequest
 from alpaca.data.timeframe import TimeFrame
@@ -14,25 +14,9 @@ def getDays(year):
         start=date(year,1,1),
         end=date(year,12,31)
     ))
-    realdays = []
-    for index in range(0,len(days)):
-        if index == len(days)-1:
-            realdays.append(days[index].close)
-        else:
-            realdays.append(days[index].open)
-    return realdays
+    return [datetime.combine(day.date, datetime.min.time()) for day in days]
 
 daysin2025 = getDays(year)
-
-startday = daysin2025[0]
-endday = daysin2025[-1]
-
-bar = dClient.get_stock_bars(StockBarsRequest(
-    symbol_or_symbols="AAPL",
-    start=startday,
-    end=endday,
-    timeframe=TimeFrame.Day
-))
 
 stocks = tClient.get_all_assets(GetAssetsRequest(
     asset_class=AssetClass.US_EQUITY
@@ -44,19 +28,29 @@ def chunks(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i + size]
 
-passedsymbols = []
+def getsymbols(day):
+    dataframe = []
 
-for batch in chunks(symbols, 5000):
-    while len(batch) > 0:
-        try:
-            firstday = dClient.get_stock_bars(StockBarsRequest(
-                symbol_or_symbols=batch,
-                start=daysin2025[0],
-                end=daysin2025[1],
-                timeframe=TimeFrame.Day
-            ))
-            if not firstday.df.empty:
-                passedsymbols.extend(firstday.df.index.get_level_values("symbol").unique())
-            break
-        except APIError as error:
-            batch.remove(str(error.message).split(": ")[-1])
+    for batch in chunks(symbols, 5000):
+        while len(batch) > 0:
+            try:
+                firstday = dClient.get_stock_bars(StockBarsRequest(
+                    symbol_or_symbols=batch,
+                    start=day,
+                    end=day + timedelta(days=1),
+                    timeframe=TimeFrame.Day,
+                    limit=10000
+                ))
+                if not firstday.df.empty:
+                    dataframe.append(firstday.df)
+                break
+            except APIError as error:
+                batch.remove(str(error.message).split(": ")[-1])
+
+    dataframe = pd.concat(dataframe)
+
+    dataframe["trading_value"] = (dataframe["close"] * dataframe["volume"])
+
+    dataframe = dataframe[(dataframe["trading_value"] >= 50000000) & (dataframe["close"] >= 5)]
+
+    return dataframe
