@@ -1,13 +1,24 @@
-import pandas as pd
 from src.download.selectsymbols import daysin2025
+import math
 
-def calcmeanvol(num, timestamp, symbol):
-    for index in range(num-21, num-1):
-        dataframe = pd.read_parquet(f"data/minute/{daysin2025[index].date()}.parquet")
-        tsdf = dataframe.reorder_levels(["timestamp", "symbol"]).sort_index()
-        print(tsdf.loc[(timestamp, symbol), "volume"])
+portval = int(input("Starting portfolio:"))
+cash = portval
+portstocks = {}
 
-for timestamp in pd.read_parquet("data/minute/2025-01-31.parquet").reorder_levels(["timestamp", "symbol"]).sort_index().index.get_level_values("timestamp"):
-    print(timestamp)
+def buy(ticker, boughtat):
+    global cash, portval
+    number = math.floor((portval*0.5)/boughtat)
+    cashneeded = number*boughtat
+    if cash >= cashneeded:
+        portstocks[ticker] = [number, boughtat, 0]
+        cash -= number*boughtat
 
-calcmeanvol(30, "2025-01-03T14:30:00+00:00", "AAPL")
+def sell(ticker, currentval):
+    global cash, portval
+    profpershare = currentval - portstocks[ticker][1]
+    portval += profpershare*portstocks[ticker][0]
+    cash += portstocks[ticker][0]*currentval
+    del portstocks[ticker]
+
+for day in daysin2025:
+    print(f"{day.date()}: {portval}")
