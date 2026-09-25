@@ -6,6 +6,7 @@ from alpaca.trading.requests import GetCalendarRequest, GetAssetsRequest
 from alpaca.trading.enums import AssetClass
 from alpaca.common.exceptions import APIError
 import pandas as pd
+from alpaca.data.enums import DataFeed
 
 year = 2025
 
@@ -39,7 +40,8 @@ def getsymbols(day):
                     start=day,
                     end=day + timedelta(days=1),
                     timeframe=TimeFrame.Day,
-                    limit=10000
+                    limit=10000,
+                    feed=DataFeed.SIP
                 ))
                 if not firstday.df.empty:
                     dataframe.append(firstday.df)

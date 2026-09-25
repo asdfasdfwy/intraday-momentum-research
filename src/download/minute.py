@@ -1,6 +1,7 @@
 from src.download.selectsymbols import daysin2025, getsymbols, chunks
 from src.api import dClient, tClient
 from alpaca.data.requests import StockBarsRequest
+from alpaca.data.enums import DataFeed
 from datetime import timedelta
 from alpaca.data.timeframe import TimeFrame
 import pandas as pd
@@ -19,7 +20,8 @@ for index in range(0,len(daysin2025)):
             symbol_or_symbols=batch,
             start=day[0].open,
             end=day[0].close - timedelta(minutes=1),
-            timeframe=TimeFrame.Minute
+            timeframe=TimeFrame.Minute,
+            feed=DataFeed.SIP
         ))
         if not bars.df.empty:
             resultdf.append(bars.df)
