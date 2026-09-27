@@ -15,7 +15,7 @@ import pandas as pd
 NEW_YORK = ZoneInfo("America/New_York")
 
 
-for index in range(0, len(daysin2025)):
+for index in range(156, len(daysin2025)):
 
     day = tClient.get_calendar(
         GetCalendarRequest(

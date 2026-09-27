@@ -7,6 +7,7 @@ from alpaca.trading.enums import AssetClass
 from alpaca.common.exceptions import APIError
 import pandas as pd
 from alpaca.data.enums import DataFeed
+import time
 
 year = 2025
 
@@ -47,7 +48,11 @@ def getsymbols(day):
                     dataframe.append(firstday.df)
                 break
             except APIError as error:
-                batch.remove(str(error.message).split(": ")[-1])
+                if error.status_code == 429:
+                    time.sleep(5)
+                    continue
+                else:
+                    batch.remove(str(error.message).split(": ")[-1])
 
     dataframe = pd.concat(dataframe)
 
