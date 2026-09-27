@@ -32,7 +32,7 @@ def chunks(lst, size):
 def getsymbols(day):
     dataframe = []
 
-    for batch in chunks(symbols, 5000):
+    for batch in chunks(symbols, 500):
         while len(batch) > 0:
             try:
                 firstday = dClient.get_stock_bars(StockBarsRequest(

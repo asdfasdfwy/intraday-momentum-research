@@ -15,7 +15,7 @@ for index in range(0,len(daysin2025)):
     totaldf = getsymbols(daysin2025[index])
     symbols = totaldf.index.get_level_values("symbol").unique().tolist()
     resultdf = []
-    for batch in chunks(symbols, 1000):
+    for batch in chunks(symbols, 500):
         bars = dClient.get_stock_bars(StockBarsRequest(
             symbol_or_symbols=batch,
             start=day[0].open,
