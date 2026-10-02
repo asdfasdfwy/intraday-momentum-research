@@ -5,7 +5,7 @@ import pandas as pd
 
 def tradeday(date):
     df = pd.read_parquet(f"data/minute/{date}.parquet").reorder_levels(["timestamp", "symbol"]).sort_index()
-    for time in range(390):
+    for time in range(len(df.index.get_level_values("timestamp").unique())):
         trademinute(time, df)
 
 for day in daysin2025:
