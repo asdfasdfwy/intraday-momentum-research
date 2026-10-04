@@ -11,7 +11,7 @@ def findsignal():
         if price <= state.cash:
             change = price-minimum
             percchange = 100 * change / minimum
-            if percchange > 1 and price > prev5[0]:
+            if percchange > 5 and price > prev5[0]:
                 signals.append(row["symbol"])
                 changes.append(percchange)
     if len(signals) == 0:
