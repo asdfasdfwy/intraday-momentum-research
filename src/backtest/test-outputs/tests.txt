@@ -1,0 +1,2 @@
+Test 1: Start: $1000, signal: 1%, time limit: 15 minutes
+Test 2: Start: $1000, signal: 5%, time limit: 60 minutes
