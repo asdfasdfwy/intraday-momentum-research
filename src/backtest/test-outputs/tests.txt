@@ -1,2 +1,4 @@
-Test 1: Start: $1000, signal: 1%, time limit: 15 minutes
-Test 2: Start: $1000, signal: 5%, time limit: 60 minutes
+Test 1: Start: $1000, signal: 1%, time limit: 15 minutes, fees: 0bps
+Test 2: Start: $1000, signal: 5%, time limit: 60 minutes, fees: 0bps
+Test 2: Start: $1000, signal: 5%, time limit: 60 minutes, fees: 30bps
+Test 2: Start: $1000, signal: 5%, time limit: 60 minutes, fees: 30bps, 2 positions

@@ -1,4 +1,5 @@
-Starting portfolio:BUY HOLO | time=2025-01-02 14:32:00+00:00 | price=6.09 | shares=164 | signal=5.36% | TP=6.35 | SL=5.93
+Starting portfolio:1000
+BUY HOLO | time=2025-01-02 14:32:00+00:00 | price=6.09 | shares=164 | signal=5.36% | TP=6.35 | SL=5.93
 SELL HOLO | time=2025-01-02 14:36:00+00:00 | price=5.88 | shares=164 | P&L=-34.78 | return=-3.48% | held=4min | reason=STOP_LOSS | portfolio=965.22
 BUY QBTS | time=2025-01-02 14:42:00+00:00 | price=8.23 | shares=117 | signal=5.28% | TP=8.58 | SL=8.01
 SELL QBTS | time=2025-01-02 14:45:00+00:00 | price=7.96 | shares=117 | P&L=-31.73 | return=-3.30% | held=3min | reason=STOP_LOSS | portfolio=933.49

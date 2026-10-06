@@ -1,0 +1,534 @@
+Starting portfolio:1000
+BUY HOLO | time=2025-01-02 14:32:00+00:00 | price=6.09 | shares=163 | signal=5.36% | cost=2.98 | TP=6.35 | SL=5.93
+SELL HOLO | time=2025-01-02 14:36:00+00:00 | price=5.88 | shares=163 | gross_P&L=-34.57 | cost=5.85 | net_P&L=-40.42 | return=-4.06% | held=4min | reason=STOP_LOSS | portfolio=959.58
+BUY QBTS | time=2025-01-02 14:42:00+00:00 | price=8.23 | shares=116 | signal=5.28% | cost=2.86 | TP=8.58 | SL=8.01
+SELL QBTS | time=2025-01-02 14:45:00+00:00 | price=7.96 | shares=116 | gross_P&L=-31.46 | cost=5.63 | net_P&L=-37.09 | return=-3.87% | held=3min | reason=STOP_LOSS | portfolio=922.48
+BUY HOLO | time=2025-01-02 14:55:00+00:00 | price=6.15 | shares=149 | signal=5.13% | cost=2.75 | TP=6.40 | SL=5.99
+SELL HOLO | time=2025-01-02 15:00:00+00:00 | price=6.47 | shares=149 | gross_P&L=+47.68 | cost=5.64 | net_P&L=+42.04 | return=+4.57% | held=5min | reason=TAKE_PROFIT | portfolio=964.52
+BUY HOLO | time=2025-01-02 15:01:00+00:00 | price=6.52 | shares=147 | signal=6.41% | cost=2.88 | TP=6.85 | SL=6.31
+SELL HOLO | time=2025-01-02 15:10:00+00:00 | price=6.30 | shares=147 | gross_P&L=-32.33 | cost=5.65 | net_P&L=-37.98 | return=-3.95% | held=9min | reason=STOP_LOSS | portfolio=926.54
+BUY HOLO | time=2025-01-02 15:59:00+00:00 | price=6.02 | shares=153 | signal=5.71% | cost=2.76 | TP=6.29 | SL=5.85
+SELL HOLO | time=2025-01-02 16:06:00+00:00 | price=5.84 | shares=153 | gross_P&L=-27.20 | cost=5.44 | net_P&L=-32.65 | return=-3.53% | held=7min | reason=STOP_LOSS | portfolio=893.89
+BUY LAES | time=2025-01-02 16:13:00+00:00 | price=8.17 | shares=109 | signal=5.02% | cost=2.67 | TP=8.50 | SL=7.97
+SELL LAES | time=2025-01-02 16:35:00+00:00 | price=8.61 | shares=109 | gross_P&L=+47.81 | cost=5.49 | net_P&L=+42.32 | return=+4.74% | held=22min | reason=TAKE_PROFIT | portfolio=936.21
+2025-01-02: 936.2147767999996
+BUY LAES | time=2025-01-03 14:31:00+00:00 | price=8.26 | shares=113 | signal=5.62% | cost=2.80 | TP=8.63 | SL=8.03
+SELL LAES | time=2025-01-03 14:37:00+00:00 | price=8.81 | shares=113 | gross_P&L=+62.17 | cost=5.79 | net_P&L=+56.39 | return=+6.02% | held=6min | reason=TAKE_PROFIT | portfolio=992.60
+BUY SERV | time=2025-01-03 14:38:00+00:00 | price=16.35 | shares=60 | signal=7.03% | cost=2.94 | TP=17.27 | SL=15.78
+SELL SERV | time=2025-01-03 14:54:00+00:00 | price=17.43 | shares=60 | gross_P&L=+64.80 | cost=6.08 | net_P&L=+58.72 | return=+5.97% | held=16min | reason=TAKE_PROFIT | portfolio=1051.32
+BUY LAES | time=2025-01-03 14:56:00+00:00 | price=9.02 | shares=116 | signal=5.64% | cost=3.14 | TP=9.43 | SL=8.77
+SELL LAES | time=2025-01-03 15:11:00+00:00 | price=8.69 | shares=116 | gross_P&L=-38.51 | cost=6.16 | net_P&L=-44.68 | return=-4.26% | held=15min | reason=STOP_LOSS | portfolio=1006.64
+BUY CRNC | time=2025-01-03 15:24:00+00:00 | price=13.32 | shares=75 | signal=7.55% | cost=3.00 | TP=14.13 | SL=12.82
+SELL CRNC | time=2025-01-03 15:30:00+00:00 | price=14.73 | shares=75 | gross_P&L=+105.66 | cost=6.31 | net_P&L=+99.35 | return=+9.91% | held=6min | reason=TAKE_PROFIT | portfolio=1105.99
+BUY CRNC | time=2025-01-03 15:50:00+00:00 | price=13.89 | shares=79 | signal=5.11% | cost=3.29 | TP=14.46 | SL=13.54
+SELL CRNC | time=2025-01-03 15:59:00+00:00 | price=14.48 | shares=79 | gross_P&L=+46.22 | cost=6.72 | net_P&L=+39.49 | return=+3.59% | held=9min | reason=TAKE_PROFIT | portfolio=1145.48
+BUY CRNC | time=2025-01-03 16:01:00+00:00 | price=14.67 | shares=77 | signal=5.81% | cost=3.39 | TP=15.35 | SL=14.24
+SELL CRNC | time=2025-01-03 16:23:00+00:00 | price=15.41 | shares=77 | gross_P&L=+57.16 | cost=6.95 | net_P&L=+50.22 | return=+4.43% | held=22min | reason=TAKE_PROFIT | portfolio=1195.70
+BUY CRNC | time=2025-01-03 16:41:00+00:00 | price=16.45 | shares=72 | signal=5.02% | cost=3.55 | TP=17.11 | SL=16.04
+SELL CRNC | time=2025-01-03 16:45:00+00:00 | price=15.82 | shares=72 | gross_P&L=-45.36 | cost=6.97 | net_P&L=-52.33 | return=-4.41% | held=4min | reason=STOP_LOSS | portfolio=1143.37
+BUY CRNC | time=2025-01-03 16:56:00+00:00 | price=17.27 | shares=65 | signal=5.21% | cost=3.37 | TP=17.99 | SL=16.83
+SELL CRNC | time=2025-01-03 16:58:00+00:00 | price=18.33 | shares=65 | gross_P&L=+68.31 | cost=6.94 | net_P&L=+61.37 | return=+5.45% | held=2min | reason=TAKE_PROFIT | portfolio=1204.73
+BUY CRNC | time=2025-01-03 16:59:00+00:00 | price=18.02 | shares=66 | signal=6.39% | cost=3.57 | TP=18.94 | SL=17.44
+SELL CRNC | time=2025-01-03 17:02:00+00:00 | price=19.05 | shares=66 | gross_P&L=+68.20 | cost=7.34 | net_P&L=+60.87 | return=+5.10% | held=3min | reason=TAKE_PROFIT | portfolio=1265.60
+BUY CRNC | time=2025-01-03 17:03:00+00:00 | price=19.26 | shares=65 | signal=6.90% | cost=3.76 | TP=20.32 | SL=18.60
+SELL CRNC | time=2025-01-03 17:10:00+00:00 | price=18.55 | shares=65 | gross_P&L=-46.15 | cost=7.37 | net_P&L=-53.52 | return=-4.26% | held=7min | reason=STOP_LOSS | portfolio=1212.08
+BUY CRNC | time=2025-01-03 17:18:00+00:00 | price=18.32 | shares=65 | signal=5.20% | cost=3.57 | TP=19.09 | SL=17.85
+SELL CRNC | time=2025-01-03 17:21:00+00:00 | price=17.53 | shares=65 | gross_P&L=-51.64 | cost=6.99 | net_P&L=-58.63 | return=-4.91% | held=3min | reason=STOP_LOSS | portfolio=1153.44
+BUY CRNC | time=2025-01-03 18:19:00+00:00 | price=17.75 | shares=64 | signal=6.95% | cost=3.41 | TP=18.74 | SL=17.13
+SELL CRNC | time=2025-01-03 18:25:00+00:00 | price=17.09 | shares=64 | gross_P&L=-42.24 | cost=6.69 | net_P&L=-48.93 | return=-4.29% | held=6min | reason=STOP_LOSS | portfolio=1104.51
+BUY CRNC | time=2025-01-03 19:33:00+00:00 | price=18.38 | shares=59 | signal=5.39% | cost=3.25 | TP=19.17 | SL=17.88
+SELL CRNC | time=2025-01-03 19:35:00+00:00 | price=17.70 | shares=59 | gross_P&L=-40.11 | cost=6.39 | net_P&L=-46.50 | return=-4.28% | held=2min | reason=STOP_LOSS | portfolio=1058.01
+2025-01-03: 1058.0132768999997
+BUY CRNC | time=2025-01-06 14:32:00+00:00 | price=26.40 | shares=39 | signal=7.10% | cost=3.09 | TP=27.90 | SL=25.46
+SELL CRNC | time=2025-01-06 14:39:00+00:00 | price=24.94 | shares=39 | gross_P&L=-56.94 | cost=6.01 | net_P&L=-62.94 | return=-6.10% | held=7min | reason=STOP_LOSS | portfolio=995.07
+BUY QBTS | time=2025-01-06 14:40:00+00:00 | price=9.72 | shares=102 | signal=5.48% | cost=2.97 | TP=10.15 | SL=9.46
+SELL QBTS | time=2025-01-06 14:59:00+00:00 | price=10.24 | shares=102 | gross_P&L=+52.84 | cost=6.11 | net_P&L=+46.73 | return=+4.70% | held=19min | reason=TAKE_PROFIT | portfolio=1041.80
+BUY FUBO | time=2025-01-06 15:03:00+00:00 | price=3.33 | shares=311 | signal=5.42% | cost=3.11 | TP=3.47 | SL=3.24
+SELL FUBO | time=2025-01-06 15:12:00+00:00 | price=3.23 | shares=311 | gross_P&L=-31.13 | cost=6.12 | net_P&L=-37.25 | return=-3.59% | held=9min | reason=STOP_LOSS | portfolio=1004.55
+BUY FUBO | time=2025-01-06 15:15:00+00:00 | price=3.42 | shares=292 | signal=6.04% | cost=3.00 | TP=3.59 | SL=3.32
+SELL FUBO | time=2025-01-06 15:28:00+00:00 | price=3.62 | shares=292 | gross_P&L=+55.48 | cost=6.17 | net_P&L=+49.31 | return=+4.92% | held=13min | reason=TAKE_PROFIT | portfolio=1053.86
+BUY FUBO | time=2025-01-06 15:29:00+00:00 | price=3.57 | shares=294 | signal=5.35% | cost=3.15 | TP=3.72 | SL=3.48
+SELL FUBO | time=2025-01-06 15:31:00+00:00 | price=3.78 | shares=294 | gross_P&L=+61.48 | cost=6.48 | net_P&L=+54.99 | return=+5.22% | held=2min | reason=TAKE_PROFIT | portfolio=1108.85
+BUY FUBO | time=2025-01-06 15:32:00+00:00 | price=3.79 | shares=291 | signal=6.13% | cost=3.31 | TP=3.98 | SL=3.67
+SELL FUBO | time=2025-01-06 15:40:00+00:00 | price=3.66 | shares=291 | gross_P&L=-37.48 | cost=6.50 | net_P&L=-43.99 | return=-3.98% | held=8min | reason=STOP_LOSS | portfolio=1064.87
+BUY FUBO | time=2025-01-06 16:02:00+00:00 | price=4.05 | shares=262 | signal=5.11% | cost=3.18 | TP=4.21 | SL=3.94
+SELL FUBO | time=2025-01-06 16:07:00+00:00 | price=4.22 | shares=262 | gross_P&L=+45.09 | cost=6.50 | net_P&L=+38.59 | return=+3.63% | held=5min | reason=TAKE_PROFIT | portfolio=1103.46
+BUY FUBO | time=2025-01-06 16:26:00+00:00 | price=4.29 | shares=256 | signal=5.79% | cost=3.30 | TP=4.49 | SL=4.17
+SELL FUBO | time=2025-01-06 16:27:00+00:00 | price=4.14 | shares=256 | gross_P&L=-39.37 | cost=6.48 | net_P&L=-45.85 | return=-4.16% | held=1min | reason=STOP_LOSS | portfolio=1057.61
+BUY FUBO | time=2025-01-06 16:57:00+00:00 | price=4.43 | shares=237 | signal=5.85% | cost=3.15 | TP=4.64 | SL=4.31
+SELL FUBO | time=2025-01-06 17:05:00+00:00 | price=4.67 | shares=237 | gross_P&L=+54.51 | cost=6.47 | net_P&L=+48.04 | return=+4.56% | held=8min | reason=TAKE_PROFIT | portfolio=1105.65
+BUY FUBO | time=2025-01-06 17:10:00+00:00 | price=4.97 | shares=221 | signal=5.98% | cost=3.30 | TP=5.21 | SL=4.82
+SELL FUBO | time=2025-01-06 17:12:00+00:00 | price=4.71 | shares=221 | gross_P&L=-57.42 | cost=6.42 | net_P&L=-63.83 | return=-5.79% | held=2min | reason=STOP_LOSS | portfolio=1041.81
+BUY FUBO | time=2025-01-06 17:32:00+00:00 | price=4.87 | shares=213 | signal=5.64% | cost=3.11 | TP=5.09 | SL=4.73
+SELL FUBO | time=2025-01-06 17:42:00+00:00 | price=4.73 | shares=213 | gross_P&L=-29.86 | cost=6.13 | net_P&L=-36.00 | return=-3.46% | held=10min | reason=STOP_LOSS | portfolio=1005.82
+BUY FUBO | time=2025-01-06 19:22:00+00:00 | price=5.18 | shares=193 | signal=6.06% | cost=3.00 | TP=5.43 | SL=5.02
+SELL FUBO | time=2025-01-06 19:40:00+00:00 | price=4.93 | shares=193 | gross_P&L=-48.39 | cost=5.85 | net_P&L=-54.24 | return=-5.41% | held=18min | reason=STOP_LOSS | portfolio=951.58
+BUY FUBO | time=2025-01-06 20:18:00+00:00 | price=5.06 | shares=187 | signal=5.25% | cost=2.84 | TP=5.27 | SL=4.92
+SELL FUBO | time=2025-01-06 20:23:00+00:00 | price=4.92 | shares=187 | gross_P&L=-24.96 | cost=5.60 | net_P&L=-30.56 | return=-3.22% | held=5min | reason=STOP_LOSS | portfolio=921.01
+2025-01-06: 921.0119707000016
+BUY ENVX | time=2025-01-07 14:32:00+00:00 | price=15.48 | shares=59 | signal=7.35% | cost=2.74 | TP=16.39 | SL=14.91
+SELL ENVX | time=2025-01-07 15:00:00+00:00 | price=14.88 | shares=59 | gross_P&L=-35.11 | cost=5.37 | net_P&L=-40.48 | return=-4.42% | held=28min | reason=STOP_LOSS | portfolio=880.53
+BUY LAZR | time=2025-01-07 15:05:00+00:00 | price=9.81 | shares=89 | signal=5.38% | cost=2.62 | TP=10.23 | SL=9.55
+SELL LAZR | time=2025-01-07 15:31:00+00:00 | price=9.52 | shares=89 | gross_P&L=-26.25 | cost=5.16 | net_P&L=-31.41 | return=-3.59% | held=26min | reason=STOP_LOSS | portfolio=849.12
+BUY MYSE | time=2025-01-07 15:44:00+00:00 | price=2.78 | shares=304 | signal=5.26% | cost=2.54 | TP=2.90 | SL=2.71
+SELL MYSE | time=2025-01-07 15:48:00+00:00 | price=2.91 | shares=304 | gross_P&L=+39.82 | cost=5.19 | net_P&L=+34.63 | return=+4.09% | held=4min | reason=TAKE_PROFIT | portfolio=883.75
+BUY MYSE | time=2025-01-07 15:50:00+00:00 | price=2.91 | shares=302 | signal=5.02% | cost=2.64 | TP=3.03 | SL=2.84
+SELL MYSE | time=2025-01-07 15:52:00+00:00 | price=2.80 | shares=302 | gross_P&L=-32.01 | cost=5.18 | net_P&L=-37.19 | return=-4.22% | held=2min | reason=STOP_LOSS | portfolio=846.56
+BUY MYSE | time=2025-01-07 16:06:00+00:00 | price=2.95 | shares=286 | signal=5.76% | cost=2.53 | TP=3.09 | SL=2.86
+SELL MYSE | time=2025-01-07 16:12:00+00:00 | price=2.83 | shares=286 | gross_P&L=-33.18 | cost=4.96 | net_P&L=-38.14 | return=-4.51% | held=6min | reason=STOP_LOSS | portfolio=808.42
+BUY MYSE | time=2025-01-07 16:25:00+00:00 | price=2.98 | shares=270 | signal=5.30% | cost=2.41 | TP=3.11 | SL=2.90
+SELL MYSE | time=2025-01-07 16:29:00+00:00 | price=3.26 | shares=270 | gross_P&L=+76.71 | cost=5.06 | net_P&L=+71.65 | return=+8.88% | held=4min | reason=TAKE_PROFIT | portfolio=880.07
+BUY MYSE | time=2025-01-07 16:30:00+00:00 | price=3.28 | shares=267 | signal=10.26% | cost=2.63 | TP=3.55 | SL=3.11
+SELL MYSE | time=2025-01-07 16:38:00+00:00 | price=3.05 | shares=267 | gross_P&L=-60.88 | cost=5.07 | net_P&L=-65.95 | return=-7.51% | held=8min | reason=STOP_LOSS | portfolio=814.13
+BUY MYSE | time=2025-01-07 16:45:00+00:00 | price=3.18 | shares=255 | signal=5.12% | cost=2.43 | TP=3.31 | SL=3.10
+SELL MYSE | time=2025-01-07 16:55:00+00:00 | price=3.48 | shares=255 | gross_P&L=+76.53 | cost=5.09 | net_P&L=+71.43 | return=+8.78% | held=10min | reason=TAKE_PROFIT | portfolio=885.56
+BUY MYSE | time=2025-01-07 16:56:00+00:00 | price=3.40 | shares=259 | signal=7.59% | cost=2.64 | TP=3.61 | SL=3.27
+SELL MYSE | time=2025-01-07 16:59:00+00:00 | price=3.67 | shares=259 | gross_P&L=+68.63 | cost=5.49 | net_P&L=+63.15 | return=+7.15% | held=3min | reason=TAKE_PROFIT | portfolio=948.70
+BUY MYSE | time=2025-01-07 17:00:00+00:00 | price=3.63 | shares=260 | signal=6.76% | cost=2.83 | TP=3.83 | SL=3.51
+SELL MYSE | time=2025-01-07 17:02:00+00:00 | price=3.41 | shares=260 | gross_P&L=-56.94 | cost=5.49 | net_P&L=-62.43 | return=-6.60% | held=2min | reason=STOP_LOSS | portfolio=886.27
+BUY MYSE | time=2025-01-07 17:10:00+00:00 | price=3.62 | shares=244 | signal=7.27% | cost=2.65 | TP=3.83 | SL=3.48
+SELL MYSE | time=2025-01-07 17:11:00+00:00 | price=3.43 | shares=244 | gross_P&L=-43.99 | cost=5.16 | net_P&L=-49.15 | return=-5.56% | held=1min | reason=STOP_LOSS | portfolio=837.12
+BUY MYSE | time=2025-01-07 17:30:00+00:00 | price=3.63 | shares=229 | signal=9.01% | cost=2.49 | TP=3.89 | SL=3.47
+SELL MYSE | time=2025-01-07 17:43:00+00:00 | price=4.08 | shares=229 | gross_P&L=+103.99 | cost=5.30 | net_P&L=+98.69 | return=+11.84% | held=13min | reason=TAKE_PROFIT | portfolio=935.81
+BUY MYSE | time=2025-01-07 17:44:00+00:00 | price=4.03 | shares=231 | signal=5.50% | cost=2.79 | TP=4.21 | SL=3.92
+SELL MYSE | time=2025-01-07 17:47:00+00:00 | price=3.91 | shares=231 | gross_P&L=-27.74 | cost=5.50 | net_P&L=-33.25 | return=-3.56% | held=3min | reason=STOP_LOSS | portfolio=902.56
+BUY MYSE | time=2025-01-07 17:48:00+00:00 | price=4.11 | shares=218 | signal=5.11% | cost=2.69 | TP=4.28 | SL=4.00
+SELL MYSE | time=2025-01-07 17:49:00+00:00 | price=3.91 | shares=218 | gross_P&L=-43.45 | cost=5.25 | net_P&L=-48.69 | return=-5.42% | held=1min | reason=STOP_LOSS | portfolio=853.87
+BUY MYSE | time=2025-01-07 18:07:00+00:00 | price=3.95 | shares=215 | signal=5.05% | cost=2.55 | TP=4.11 | SL=3.85
+SELL MYSE | time=2025-01-07 18:11:00+00:00 | price=4.18 | shares=215 | gross_P&L=+50.16 | cost=5.25 | net_P&L=+44.91 | return=+5.27% | held=4min | reason=TAKE_PROFIT | portfolio=898.78
+BUY MYSE | time=2025-01-07 18:12:00+00:00 | price=4.21 | shares=212 | signal=7.51% | cost=2.68 | TP=4.46 | SL=4.05
+SELL MYSE | time=2025-01-07 18:16:00+00:00 | price=4.60 | shares=212 | gross_P&L=+82.68 | cost=5.60 | net_P&L=+77.08 | return=+8.61% | held=4min | reason=TAKE_PROFIT | portfolio=975.86
+BUY MYSE | time=2025-01-07 18:17:00+00:00 | price=4.64 | shares=209 | signal=9.43% | cost=2.91 | TP=4.99 | SL=4.42
+SELL MYSE | time=2025-01-07 18:24:00+00:00 | price=4.31 | shares=209 | gross_P&L=-68.97 | cost=5.61 | net_P&L=-74.58 | return=-7.67% | held=7min | reason=STOP_LOSS | portfolio=901.28
+BUY MYSE | time=2025-01-07 18:27:00+00:00 | price=4.57 | shares=196 | signal=6.03% | cost=2.69 | TP=4.79 | SL=4.43
+SELL MYSE | time=2025-01-07 18:28:00+00:00 | price=4.42 | shares=196 | gross_P&L=-29.40 | cost=5.29 | net_P&L=-34.69 | return=-3.86% | held=1min | reason=STOP_LOSS | portfolio=866.59
+BUY MYSE | time=2025-01-07 18:33:00+00:00 | price=4.99 | shares=173 | signal=12.64% | cost=2.59 | TP=5.49 | SL=4.67
+SELL MYSE | time=2025-01-07 18:41:00+00:00 | price=5.57 | shares=173 | gross_P&L=+100.34 | cost=5.48 | net_P&L=+94.86 | return=+10.96% | held=8min | reason=TAKE_PROFIT | portfolio=961.45
+BUY MYSE | time=2025-01-07 18:42:00+00:00 | price=5.66 | shares=169 | signal=12.75% | cost=2.87 | TP=6.24 | SL=5.30
+SELL MYSE | time=2025-01-07 19:03:00+00:00 | price=5.25 | shares=169 | gross_P&L=-69.27 | cost=5.53 | net_P&L=-74.80 | return=-7.80% | held=21min | reason=STOP_LOSS | portfolio=886.65
+BUY MYSE | time=2025-01-07 19:33:00+00:00 | price=5.41 | shares=163 | signal=5.18% | cost=2.64 | TP=5.63 | SL=5.27
+SELL MYSE | time=2025-01-07 19:35:00+00:00 | price=5.80 | shares=163 | gross_P&L=+64.22 | cost=5.48 | net_P&L=+58.74 | return=+6.65% | held=2min | reason=TAKE_PROFIT | portfolio=945.39
+BUY MYSE | time=2025-01-07 19:36:00+00:00 | price=5.65 | shares=166 | signal=6.61% | cost=2.81 | TP=5.95 | SL=5.46
+SELL MYSE | time=2025-01-07 19:39:00+00:00 | price=6.03 | shares=166 | gross_P&L=+63.35 | cost=5.82 | net_P&L=+57.53 | return=+6.12% | held=3min | reason=TAKE_PROFIT | portfolio=1002.92
+BUY MYSE | time=2025-01-07 19:52:00+00:00 | price=5.97 | shares=167 | signal=5.73% | cost=2.99 | TP=6.25 | SL=5.80
+SELL MYSE | time=2025-01-07 19:55:00+00:00 | price=6.25 | shares=167 | gross_P&L=+46.09 | cost=6.12 | net_P&L=+39.97 | return=+3.99% | held=3min | reason=TAKE_PROFIT | portfolio=1042.88
+BUY MYSE | time=2025-01-07 20:05:00+00:00 | price=6.41 | shares=162 | signal=7.19% | cost=3.12 | TP=6.78 | SL=6.18
+SELL MYSE | time=2025-01-07 20:08:00+00:00 | price=6.83 | shares=162 | gross_P&L=+68.04 | cost=6.43 | net_P&L=+61.61 | return=+5.91% | held=3min | reason=TAKE_PROFIT | portfolio=1104.49
+BUY MYSE | time=2025-01-07 20:09:00+00:00 | price=6.83 | shares=161 | signal=6.63% | cost=3.30 | TP=7.20 | SL=6.61
+SELL MYSE | time=2025-01-07 20:14:00+00:00 | price=7.30 | shares=161 | gross_P&L=+75.03 | cost=6.83 | net_P&L=+68.20 | return=+6.18% | held=5min | reason=TAKE_PROFIT | portfolio=1172.69
+BUY MYSE | time=2025-01-07 20:15:00+00:00 | price=7.19 | shares=162 | signal=5.56% | cost=3.50 | TP=7.51 | SL=6.99
+SELL MYSE | time=2025-01-07 20:22:00+00:00 | price=6.88 | shares=162 | gross_P&L=-50.92 | cost=6.84 | net_P&L=-57.76 | return=-4.94% | held=7min | reason=STOP_LOSS | portfolio=1114.93
+BUY MYSE | time=2025-01-07 20:25:00+00:00 | price=7.60 | shares=146 | signal=10.47% | cost=3.33 | TP=8.24 | SL=7.20
+SELL MYSE | time=2025-01-07 20:47:00+00:00 | price=7.07 | shares=146 | gross_P&L=-77.38 | cost=6.43 | net_P&L=-83.81 | return=-7.53% | held=22min | reason=STOP_LOSS | portfolio=1031.13
+BUY MYSE | time=2025-01-07 20:50:00+00:00 | price=7.48 | shares=137 | signal=5.78% | cost=3.07 | TP=7.82 | SL=7.26
+SELL MYSE | time=2025-01-07 20:52:00+00:00 | price=7.84 | shares=137 | gross_P&L=+49.48 | cost=6.30 | net_P&L=+43.19 | return=+4.20% | held=2min | reason=TAKE_PROFIT | portfolio=1074.31
+BUY MYSE | time=2025-01-07 20:53:00+00:00 | price=8.10 | shares=132 | signal=10.96% | cost=3.21 | TP=8.81 | SL=7.66
+SELL MYSE | time=2025-01-07 20:57:00+00:00 | price=8.82 | shares=132 | gross_P&L=+95.65 | cost=6.70 | net_P&L=+88.95 | return=+8.29% | held=4min | reason=TAKE_PROFIT | portfolio=1163.26
+BUY MYSE | time=2025-01-07 20:58:00+00:00 | price=9.05 | shares=128 | signal=12.21% | cost=3.48 | TP=9.94 | SL=8.50
+SELL MYSE | time=2025-01-07 20:59:00+00:00 | price=8.82 | shares=128 | gross_P&L=-30.08 | cost=6.86 | net_P&L=-36.94 | return=-3.18% | held=1min | reason=END_OF_DAY | portfolio=1126.32
+2025-01-07: 1126.3153600000019
+BUY SERV | time=2025-01-08 14:32:00+00:00 | price=17.86 | shares=62 | signal=7.83% | cost=3.32 | TP=18.98 | SL=17.16
+SELL SERV | time=2025-01-08 14:39:00+00:00 | price=16.96 | shares=62 | gross_P&L=-55.50 | cost=6.48 | net_P&L=-61.98 | return=-5.58% | held=7min | reason=STOP_LOSS | portfolio=1064.34
+BUY CRNC | time=2025-01-08 14:44:00+00:00 | price=16.87 | shares=62 | signal=5.14% | cost=3.14 | TP=17.56 | SL=16.44
+SELL CRNC | time=2025-01-08 14:50:00+00:00 | price=16.40 | shares=62 | gross_P&L=-29.14 | cost=6.19 | net_P&L=-35.33 | return=-3.37% | held=6min | reason=STOP_LOSS | portfolio=1029.01
+BUY VIR | time=2025-01-08 14:52:00+00:00 | price=12.87 | shares=79 | signal=9.81% | cost=3.05 | TP=13.88 | SL=12.24
+SELL VIR | time=2025-01-08 15:00:00+00:00 | price=12.04 | shares=79 | gross_P&L=-65.57 | cost=5.90 | net_P&L=-71.47 | return=-7.01% | held=8min | reason=STOP_LOSS | portfolio=957.53
+BUY FUBO | time=2025-01-08 15:04:00+00:00 | price=5.08 | shares=188 | signal=5.29% | cost=2.86 | TP=5.29 | SL=4.94
+SELL FUBO | time=2025-01-08 15:10:00+00:00 | price=4.93 | shares=188 | gross_P&L=-26.32 | cost=5.65 | net_P&L=-31.97 | return=-3.34% | held=6min | reason=STOP_LOSS | portfolio=925.57
+BUY VIR | time=2025-01-08 15:11:00+00:00 | price=13.45 | shares=68 | signal=5.76% | cost=2.74 | TP=14.06 | SL=13.06
+SELL VIR | time=2025-01-08 15:13:00+00:00 | price=12.99 | shares=68 | gross_P&L=-30.60 | cost=5.39 | net_P&L=-35.99 | return=-3.93% | held=2min | reason=STOP_LOSS | portfolio=889.58
+BUY IONQ | time=2025-01-08 15:17:00+00:00 | price=28.72 | shares=30 | signal=8.07% | cost=2.59 | TP=30.58 | SL=27.56
+SELL IONQ | time=2025-01-08 15:20:00+00:00 | price=27.50 | shares=30 | gross_P&L=-36.71 | cost=5.06 | net_P&L=-41.77 | return=-4.83% | held=3min | reason=STOP_LOSS | portfolio=847.81
+BUY QUBT | time=2025-01-08 15:24:00+00:00 | price=9.63 | shares=87 | signal=6.53% | cost=2.51 | TP=10.13 | SL=9.32
+SELL QUBT | time=2025-01-08 15:37:00+00:00 | price=10.21 | shares=87 | gross_P&L=+50.02 | cost=5.18 | net_P&L=+44.85 | return=+5.34% | held=13min | reason=TAKE_PROFIT | portfolio=892.66
+BUY IONQ | time=2025-01-08 15:52:00+00:00 | price=28.38 | shares=31 | signal=5.07% | cost=2.64 | TP=29.53 | SL=27.66
+SELL IONQ | time=2025-01-08 16:03:00+00:00 | price=27.60 | shares=31 | gross_P&L=-24.18 | cost=5.21 | net_P&L=-29.38 | return=-3.33% | held=11min | reason=STOP_LOSS | portfolio=863.27
+BUY QBTS | time=2025-01-08 16:08:00+00:00 | price=4.92 | shares=174 | signal=5.52% | cost=2.57 | TP=5.14 | SL=4.78
+SELL QBTS | time=2025-01-08 16:42:00+00:00 | price=5.17 | shares=174 | gross_P&L=+44.56 | cost=5.27 | net_P&L=+39.29 | return=+4.58% | held=34min | reason=TAKE_PROFIT | portfolio=902.56
+BUY QBTS | time=2025-01-08 18:50:00+00:00 | price=6.06 | shares=148 | signal=5.25% | cost=2.69 | TP=6.32 | SL=5.90
+SELL QBTS | time=2025-01-08 18:59:00+00:00 | price=6.34 | shares=148 | gross_P&L=+40.71 | cost=5.51 | net_P&L=+35.21 | return=+3.91% | held=9min | reason=TAKE_PROFIT | portfolio=937.77
+2025-01-08: 937.7736559000017
+BUY SMST | time=2025-01-10 14:37:00+00:00 | price=5.76 | shares=162 | signal=5.69% | cost=2.80 | TP=6.02 | SL=5.60
+SELL SMST | time=2025-01-10 14:43:00+00:00 | price=5.58 | shares=162 | gross_P&L=-29.16 | cost=5.51 | net_P&L=-34.67 | return=-3.70% | held=6min | reason=STOP_LOSS | portfolio=903.10
+BUY SERV | time=2025-01-10 14:44:00+00:00 | price=17.90 | shares=50 | signal=5.09% | cost=2.68 | TP=18.63 | SL=17.44
+SELL SERV | time=2025-01-10 14:46:00+00:00 | price=17.09 | shares=50 | gross_P&L=-40.42 | cost=5.25 | net_P&L=-45.67 | return=-5.09% | held=2min | reason=STOP_LOSS | portfolio=857.43
+BUY QBTS | time=2025-01-10 15:04:00+00:00 | price=6.23 | shares=137 | signal=6.13% | cost=2.56 | TP=6.54 | SL=6.04
+SELL QBTS | time=2025-01-10 15:30:00+00:00 | price=6.54 | shares=137 | gross_P&L=+42.46 | cost=5.25 | net_P&L=+37.21 | return=+4.35% | held=26min | reason=TAKE_PROFIT | portfolio=894.64
+2025-01-10: 894.6370120000018
+BUY RGTI | time=2025-01-13 14:32:00+00:00 | price=7.92 | shares=112 | signal=5.47% | cost=2.66 | TP=8.27 | SL=7.70
+SELL RGTI | time=2025-01-13 14:46:00+00:00 | price=7.68 | shares=112 | gross_P&L=-26.77 | cost=5.24 | net_P&L=-32.01 | return=-3.60% | held=14min | reason=STOP_LOSS | portfolio=862.63
+BUY PHIO | time=2025-01-13 14:48:00+00:00 | price=4.62 | shares=186 | signal=6.76% | cost=2.58 | TP=4.87 | SL=4.46
+SELL PHIO | time=2025-01-13 14:50:00+00:00 | price=5.09 | shares=186 | gross_P&L=+88.13 | cost=5.42 | net_P&L=+82.71 | return=+9.60% | held=2min | reason=TAKE_PROFIT | portfolio=945.34
+BUY PHIO | time=2025-01-13 14:51:00+00:00 | price=5.44 | shares=173 | signal=21.88% | cost=2.82 | TP=6.39 | SL=4.84
+SELL PHIO | time=2025-01-13 15:08:00+00:00 | price=6.43 | shares=173 | gross_P&L=+171.98 | cost=6.16 | net_P&L=+165.82 | return=+17.58% | held=17min | reason=TAKE_PROFIT | portfolio=1111.16
+BUY PHIO | time=2025-01-13 15:09:00+00:00 | price=6.58 | shares=168 | signal=13.05% | cost=3.32 | TP=7.27 | SL=6.15
+SELL PHIO | time=2025-01-13 15:13:00+00:00 | price=7.92 | shares=168 | gross_P&L=+225.44 | cost=7.31 | net_P&L=+218.13 | return=+19.67% | held=4min | reason=TAKE_PROFIT | portfolio=1329.29
+BUY PHIO | time=2025-01-13 15:14:00+00:00 | price=8.15 | shares=162 | signal=19.33% | cost=3.96 | TP=9.41 | SL=7.36
+SELL PHIO | time=2025-01-13 15:38:00+00:00 | price=7.25 | shares=162 | gross_P&L=-145.80 | cost=7.48 | net_P&L=-153.28 | return=-11.58% | held=24min | reason=STOP_LOSS | portfolio=1176.01
+BUY PHIO | time=2025-01-13 15:45:00+00:00 | price=7.62 | shares=153 | signal=8.96% | cost=3.50 | TP=8.16 | SL=7.28
+SELL PHIO | time=2025-01-13 15:57:00+00:00 | price=9.45 | shares=153 | gross_P&L=+280.97 | cost=7.83 | net_P&L=+273.13 | return=+23.37% | held=12min | reason=TAKE_PROFIT | portfolio=1449.14
+BUY PHIO | time=2025-01-13 15:58:00+00:00 | price=9.02 | shares=160 | signal=16.29% | cost=4.33 | TP=10.20 | SL=8.29
+SELL PHIO | time=2025-01-13 16:04:00+00:00 | price=8.25 | shares=160 | gross_P&L=-123.20 | cost=8.29 | net_P&L=-131.49 | return=-9.08% | held=6min | reason=STOP_LOSS | portfolio=1317.65
+BUY PHIO | time=2025-01-13 16:10:00+00:00 | price=8.37 | shares=156 | signal=6.22% | cost=3.92 | TP=8.79 | SL=8.11
+SELL PHIO | time=2025-01-13 16:15:00+00:00 | price=8.05 | shares=156 | gross_P&L=-49.92 | cost=7.68 | net_P&L=-57.60 | return=-4.40% | held=5min | reason=STOP_LOSS | portfolio=1260.05
+BUY PHIO | time=2025-01-13 16:22:00+00:00 | price=8.10 | shares=155 | signal=6.58% | cost=3.77 | TP=8.53 | SL=7.83
+SELL PHIO | time=2025-01-13 16:30:00+00:00 | price=7.82 | shares=155 | gross_P&L=-43.40 | cost=7.40 | net_P&L=-50.80 | return=-4.03% | held=8min | reason=STOP_LOSS | portfolio=1209.24
+BUY PHIO | time=2025-01-13 16:47:00+00:00 | price=7.35 | shares=164 | signal=5.45% | cost=3.62 | TP=7.67 | SL=7.15
+SELL PHIO | time=2025-01-13 16:49:00+00:00 | price=7.14 | shares=164 | gross_P&L=-34.44 | cost=7.13 | net_P&L=-41.57 | return=-3.44% | held=2min | reason=STOP_LOSS | portfolio=1167.67
+BUY PHIO | time=2025-01-13 17:05:00+00:00 | price=7.42 | shares=156 | signal=7.37% | cost=3.47 | TP=7.85 | SL=7.14
+SELL PHIO | time=2025-01-13 17:10:00+00:00 | price=7.11 | shares=156 | gross_P&L=-47.67 | cost=6.80 | net_P&L=-54.47 | return=-4.69% | held=5min | reason=STOP_LOSS | portfolio=1113.20
+BUY PHIO | time=2025-01-13 17:27:00+00:00 | price=6.72 | shares=165 | signal=7.01% | cost=3.33 | TP=7.10 | SL=6.48
+SELL PHIO | time=2025-01-13 17:34:00+00:00 | price=6.48 | shares=165 | gross_P&L=-39.62 | cost=6.53 | net_P&L=-46.15 | return=-4.15% | held=7min | reason=STOP_LOSS | portfolio=1067.05
+BUY PHIO | time=2025-01-13 17:42:00+00:00 | price=6.71 | shares=158 | signal=5.01% | cost=3.18 | TP=6.98 | SL=6.54
+SELL PHIO | time=2025-01-13 17:44:00+00:00 | price=7.18 | shares=158 | gross_P&L=+74.26 | cost=6.58 | net_P&L=+67.68 | return=+6.36% | held=2min | reason=TAKE_PROFIT | portfolio=1134.73
+BUY PHIO | time=2025-01-13 17:45:00+00:00 | price=7.33 | shares=154 | signal=10.54% | cost=3.38 | TP=7.94 | SL=6.94
+SELL PHIO | time=2025-01-13 18:11:00+00:00 | price=8.04 | shares=154 | gross_P&L=+109.34 | cost=7.10 | net_P&L=+102.24 | return=+9.04% | held=26min | reason=TAKE_PROFIT | portfolio=1236.97
+BUY PHIO | time=2025-01-13 18:21:00+00:00 | price=7.91 | shares=155 | signal=5.95% | cost=3.68 | TP=8.29 | SL=7.68
+SELL PHIO | time=2025-01-13 18:26:00+00:00 | price=8.53 | shares=155 | gross_P&L=+95.46 | cost=7.65 | net_P&L=+87.82 | return=+7.14% | held=5min | reason=TAKE_PROFIT | portfolio=1324.79
+BUY PHIO | time=2025-01-13 18:27:00+00:00 | price=8.60 | shares=153 | signal=10.33% | cost=3.95 | TP=9.31 | SL=8.15
+SELL PHIO | time=2025-01-13 18:38:00+00:00 | price=7.84 | shares=153 | gross_P&L=-115.61 | cost=7.54 | net_P&L=-123.15 | return=-9.34% | held=11min | reason=STOP_LOSS | portfolio=1201.64
+BUY PHIO | time=2025-01-13 18:58:00+00:00 | price=7.95 | shares=150 | signal=5.72% | cost=3.58 | TP=8.32 | SL=7.73
+SELL PHIO | time=2025-01-13 19:25:00+00:00 | price=7.57 | shares=150 | gross_P&L=-57.59 | cost=6.99 | net_P&L=-64.57 | return=-5.40% | held=27min | reason=STOP_LOSS | portfolio=1137.07
+BUY PHIO | time=2025-01-13 19:37:00+00:00 | price=7.76 | shares=146 | signal=5.67% | cost=3.40 | TP=8.11 | SL=7.54
+SELL PHIO | time=2025-01-13 19:52:00+00:00 | price=7.44 | shares=146 | gross_P&L=-46.11 | cost=6.66 | net_P&L=-52.77 | return=-4.64% | held=15min | reason=STOP_LOSS | portfolio=1084.30
+BUY PHIO | time=2025-01-13 20:05:00+00:00 | price=7.43 | shares=145 | signal=5.24% | cost=3.23 | TP=7.74 | SL=7.24
+SELL PHIO | time=2025-01-13 20:10:00+00:00 | price=7.78 | shares=145 | gross_P&L=+50.03 | cost=6.61 | net_P&L=+43.41 | return=+4.02% | held=5min | reason=TAKE_PROFIT | portfolio=1127.71
+BUY PHIO | time=2025-01-13 20:11:00+00:00 | price=7.79 | shares=144 | signal=5.13% | cost=3.37 | TP=8.11 | SL=7.59
+SELL PHIO | time=2025-01-13 20:20:00+00:00 | price=7.46 | shares=144 | gross_P&L=-47.66 | cost=6.59 | net_P&L=-54.25 | return=-4.82% | held=9min | reason=STOP_LOSS | portfolio=1073.46
+BUY PHIO | time=2025-01-13 20:33:00+00:00 | price=7.35 | shares=145 | signal=5.06% | cost=3.20 | TP=7.65 | SL=7.17
+SELL PHIO | time=2025-01-13 20:37:00+00:00 | price=7.17 | shares=145 | gross_P&L=-27.38 | cost=6.32 | net_P&L=-33.69 | return=-3.15% | held=4min | reason=STOP_LOSS | portfolio=1039.77
+BUY PHIO | time=2025-01-13 20:49:00+00:00 | price=7.11 | shares=145 | signal=6.76% | cost=3.09 | TP=7.49 | SL=6.87
+SELL PHIO | time=2025-01-13 20:53:00+00:00 | price=6.77 | shares=145 | gross_P&L=-49.30 | cost=6.04 | net_P&L=-55.34 | return=-5.35% | held=4min | reason=STOP_LOSS | portfolio=984.43
+2025-01-13: 984.4308731000026
+BUY QUBT | time=2025-01-14 14:32:00+00:00 | price=7.73 | shares=126 | signal=5.43% | cost=2.92 | TP=8.07 | SL=7.52
+SELL QUBT | time=2025-01-14 14:58:00+00:00 | price=7.46 | shares=126 | gross_P&L=-34.02 | cost=5.74 | net_P&L=-39.76 | return=-4.07% | held=26min | reason=STOP_LOSS | portfolio=944.67
+BUY PDYN | time=2025-01-14 15:03:00+00:00 | price=8.84 | shares=106 | signal=5.82% | cost=2.81 | TP=9.25 | SL=8.58
+SELL PDYN | time=2025-01-14 15:39:00+00:00 | price=8.47 | shares=106 | gross_P&L=-38.75 | cost=5.50 | net_P&L=-44.26 | return=-4.71% | held=36min | reason=STOP_LOSS | portfolio=900.41
+2025-01-14: 900.4122723000028
+BUY QMCO | time=2025-01-15 14:32:00+00:00 | price=29.32 | shares=30 | signal=6.42% | cost=2.64 | TP=30.83 | SL=28.38
+SELL QMCO | time=2025-01-15 14:35:00+00:00 | price=28.37 | shares=30 | gross_P&L=-28.58 | cost=5.19 | net_P&L=-33.77 | return=-3.83% | held=3min | reason=STOP_LOSS | portfolio=866.64
+BUY SERV | time=2025-01-15 14:36:00+00:00 | price=18.61 | shares=46 | signal=5.58% | cost=2.57 | TP=19.44 | SL=18.09
+SELL SERV | time=2025-01-15 15:08:00+00:00 | price=19.48 | shares=46 | gross_P&L=+40.48 | cost=5.26 | net_P&L=+35.22 | return=+4.10% | held=32min | reason=TAKE_PROFIT | portfolio=901.87
+BUY QMCO | time=2025-01-15 15:09:00+00:00 | price=33.16 | shares=27 | signal=5.54% | cost=2.69 | TP=34.63 | SL=32.24
+SELL QMCO | time=2025-01-15 15:28:00+00:00 | price=34.86 | shares=27 | gross_P&L=+45.90 | cost=5.51 | net_P&L=+40.39 | return=+4.50% | held=19min | reason=TAKE_PROFIT | portfolio=942.26
+BUY QUBT | time=2025-01-15 15:44:00+00:00 | price=11.39 | shares=82 | signal=5.81% | cost=2.80 | TP=11.91 | SL=11.05
+SELL QUBT | time=2025-01-15 15:48:00+00:00 | price=10.92 | shares=82 | gross_P&L=-38.07 | cost=5.49 | net_P&L=-43.56 | return=-4.65% | held=4min | reason=STOP_LOSS | portfolio=898.70
+2025-01-15: 898.6963181000028
+BUY EOSE | time=2025-01-16 14:36:00+00:00 | price=5.36 | shares=167 | signal=5.10% | cost=2.69 | TP=5.58 | SL=5.22
+SELL EOSE | time=2025-01-16 15:36:00+00:00 | price=5.52 | shares=167 | gross_P&L=+26.72 | cost=5.45 | net_P&L=+21.27 | return=+2.37% | held=60min | reason=TIME_LIMIT | portfolio=919.97
+2025-01-16: 919.9654381000028
+BUY DFNS | time=2025-01-17 14:32:00+00:00 | price=36.45 | shares=25 | signal=8.05% | cost=2.73 | TP=38.79 | SL=34.98
+SELL DFNS | time=2025-01-17 14:33:00+00:00 | price=34.63 | shares=25 | gross_P&L=-45.50 | cost=5.33 | net_P&L=-50.83 | return=-5.56% | held=1min | reason=STOP_LOSS | portfolio=869.14
+BUY WOLF | time=2025-01-17 14:34:00+00:00 | price=7.09 | shares=122 | signal=5.27% | cost=2.59 | TP=7.39 | SL=6.90
+SELL WOLF | time=2025-01-17 14:45:00+00:00 | price=6.87 | shares=122 | gross_P&L=-26.84 | cost=5.11 | net_P&L=-31.95 | return=-3.68% | held=11min | reason=STOP_LOSS | portfolio=837.19
+BUY DFNS | time=2025-01-17 14:53:00+00:00 | price=34.48 | shares=24 | signal=5.14% | cost=2.48 | TP=35.90 | SL=33.60
+SELL DFNS | time=2025-01-17 14:58:00+00:00 | price=36.01 | shares=24 | gross_P&L=+36.52 | cost=5.08 | net_P&L=+31.45 | return=+3.79% | held=5min | reason=TAKE_PROFIT | portfolio=868.63
+BUY DFNS | time=2025-01-17 15:00:00+00:00 | price=37.39 | shares=23 | signal=6.81% | cost=2.58 | TP=39.43 | SL=36.11
+SELL DFNS | time=2025-01-17 15:12:00+00:00 | price=36.00 | shares=23 | gross_P&L=-31.91 | cost=5.06 | net_P&L=-36.98 | return=-4.29% | held=12min | reason=STOP_LOSS | portfolio=831.66
+BUY DFNS | time=2025-01-17 16:10:00+00:00 | price=32.72 | shares=25 | signal=5.17% | cost=2.45 | TP=34.07 | SL=31.87
+SELL DFNS | time=2025-01-17 16:22:00+00:00 | price=31.73 | shares=25 | gross_P&L=-24.63 | cost=4.83 | net_P&L=-29.46 | return=-3.59% | held=12min | reason=STOP_LOSS | portfolio=802.20
+BUY BTCT | time=2025-01-17 16:23:00+00:00 | price=6.41 | shares=124 | signal=5.86% | cost=2.39 | TP=6.72 | SL=6.23
+SELL BTCT | time=2025-01-17 16:27:00+00:00 | price=6.19 | shares=124 | gross_P&L=-27.88 | cost=4.69 | net_P&L=-32.56 | return=-4.08% | held=4min | reason=STOP_LOSS | portfolio=769.63
+BUY BTCT | time=2025-01-17 17:48:00+00:00 | price=6.98 | shares=109 | signal=5.44% | cost=2.28 | TP=7.28 | SL=6.79
+SELL BTCT | time=2025-01-17 17:53:00+00:00 | price=7.29 | shares=109 | gross_P&L=+33.79 | cost=4.67 | net_P&L=+29.12 | return=+3.82% | held=5min | reason=TAKE_PROFIT | portfolio=798.76
+BUY BTCT | time=2025-01-17 18:08:00+00:00 | price=7.72 | shares=103 | signal=7.20% | cost=2.38 | TP=8.16 | SL=7.44
+SELL BTCT | time=2025-01-17 18:11:00+00:00 | price=7.43 | shares=103 | gross_P&L=-29.16 | cost=4.68 | net_P&L=-33.84 | return=-4.24% | held=3min | reason=STOP_LOSS | portfolio=764.91
+BUY BTCT | time=2025-01-17 19:01:00+00:00 | price=7.61 | shares=100 | signal=5.40% | cost=2.28 | TP=7.94 | SL=7.40
+SELL BTCT | time=2025-01-17 19:03:00+00:00 | price=7.39 | shares=100 | gross_P&L=-22.00 | cost=4.50 | net_P&L=-26.50 | return=-3.47% | held=2min | reason=STOP_LOSS | portfolio=738.41
+BUY BTCT | time=2025-01-17 19:07:00+00:00 | price=7.83 | shares=94 | signal=5.95% | cost=2.21 | TP=8.20 | SL=7.60
+SELL BTCT | time=2025-01-17 19:19:00+00:00 | price=8.25 | shares=94 | gross_P&L=+39.28 | cost=4.53 | net_P&L=+34.75 | return=+4.71% | held=12min | reason=TAKE_PROFIT | portfolio=773.16
+BUY BTCT | time=2025-01-17 19:40:00+00:00 | price=8.78 | shares=87 | signal=7.14% | cost=2.29 | TP=9.28 | SL=8.47
+SELL BTCT | time=2025-01-17 19:46:00+00:00 | price=9.28 | shares=87 | gross_P&L=+43.71 | cost=4.71 | net_P&L=+38.99 | return=+5.09% | held=6min | reason=TAKE_PROFIT | portfolio=812.16
+BUY BTCT | time=2025-01-17 19:47:00+00:00 | price=9.43 | shares=85 | signal=5.52% | cost=2.40 | TP=9.85 | SL=9.17
+SELL BTCT | time=2025-01-17 19:54:00+00:00 | price=9.13 | shares=85 | gross_P&L=-25.50 | cost=4.73 | net_P&L=-30.23 | return=-3.76% | held=7min | reason=STOP_LOSS | portfolio=781.92
+BUY BTCT | time=2025-01-17 20:44:00+00:00 | price=8.64 | shares=90 | signal=6.27% | cost=2.33 | TP=9.08 | SL=8.37
+SELL BTCT | time=2025-01-17 20:51:00+00:00 | price=8.22 | shares=90 | gross_P&L=-38.25 | cost=4.55 | net_P&L=-42.80 | return=-5.48% | held=7min | reason=STOP_LOSS | portfolio=739.12
+2025-01-17: 739.1214367000033
+BUY VSAT | time=2025-01-21 14:32:00+00:00 | price=10.32 | shares=71 | signal=7.61% | cost=2.20 | TP=10.95 | SL=9.93
+SELL VSAT | time=2025-01-21 14:56:00+00:00 | price=10.99 | shares=71 | gross_P&L=+47.57 | cost=4.54 | net_P&L=+43.03 | return=+5.86% | held=24min | reason=TAKE_PROFIT | portfolio=782.15
+BUY BTCT | time=2025-01-21 15:20:00+00:00 | price=8.20 | shares=95 | signal=5.13% | cost=2.34 | TP=8.54 | SL=7.99
+SELL BTCT | time=2025-01-21 15:22:00+00:00 | price=7.89 | shares=95 | gross_P&L=-29.44 | cost=4.59 | net_P&L=-34.03 | return=-4.35% | held=2min | reason=STOP_LOSS | portfolio=748.13
+BUY BTCT | time=2025-01-21 16:12:00+00:00 | price=8.20 | shares=90 | signal=6.54% | cost=2.21 | TP=8.63 | SL=7.93
+SELL BTCT | time=2025-01-21 16:38:00+00:00 | price=7.91 | shares=90 | gross_P&L=-25.96 | cost=4.35 | net_P&L=-30.31 | return=-4.10% | held=26min | reason=STOP_LOSS | portfolio=717.81
+BUY LAES | time=2025-01-21 17:23:00+00:00 | price=4.80 | shares=149 | signal=5.06% | cost=2.15 | TP=4.99 | SL=4.68
+SELL LAES | time=2025-01-21 17:30:00+00:00 | price=5.02 | shares=149 | gross_P&L=+32.77 | cost=4.39 | net_P&L=+28.38 | return=+3.96% | held=7min | reason=TAKE_PROFIT | portfolio=746.19
+BUY BTCT | time=2025-01-21 17:43:00+00:00 | price=8.35 | shares=89 | signal=5.70% | cost=2.23 | TP=8.73 | SL=8.11
+SELL BTCT | time=2025-01-21 18:43:00+00:00 | price=8.50 | shares=89 | gross_P&L=+13.35 | cost=4.50 | net_P&L=+8.85 | return=+1.19% | held=60min | reason=TIME_LIMIT | portfolio=755.04
+2025-01-21: 755.0385879000036
+BUY CRNC | time=2025-01-22 14:32:00+00:00 | price=15.47 | shares=48 | signal=6.04% | cost=2.23 | TP=16.22 | SL=15.00
+SELL CRNC | time=2025-01-22 15:07:00+00:00 | price=16.34 | shares=48 | gross_P&L=+41.82 | cost=4.58 | net_P&L=+37.24 | return=+5.00% | held=35min | reason=TAKE_PROFIT | portfolio=792.28
+BUY ALOY | time=2025-01-22 15:18:00+00:00 | price=3.11 | shares=253 | signal=10.68% | cost=2.36 | TP=3.38 | SL=2.94
+SELL ALOY | time=2025-01-22 15:37:00+00:00 | price=3.68 | shares=253 | gross_P&L=+143.96 | cost=5.15 | net_P&L=+138.80 | return=+17.59% | held=19min | reason=TAKE_PROFIT | portfolio=931.08
+BUY ALOY | time=2025-01-22 15:38:00+00:00 | price=3.45 | shares=269 | signal=7.14% | cost=2.78 | TP=3.65 | SL=3.33
+SELL ALOY | time=2025-01-22 15:41:00+00:00 | price=3.96 | shares=269 | gross_P&L=+137.24 | cost=5.98 | net_P&L=+131.26 | return=+14.10% | held=3min | reason=TAKE_PROFIT | portfolio=1062.34
+BUY ALOY | time=2025-01-22 15:42:00+00:00 | price=3.99 | shares=265 | signal=15.65% | cost=3.17 | TP=4.49 | SL=3.68
+SELL ALOY | time=2025-01-22 15:48:00+00:00 | price=4.70 | shares=265 | gross_P&L=+188.18 | cost=6.91 | net_P&L=+181.27 | return=+17.09% | held=6min | reason=TAKE_PROFIT | portfolio=1243.61
+BUY ALOY | time=2025-01-22 15:49:00+00:00 | price=4.60 | shares=269 | signal=12.75% | cost=3.71 | TP=5.07 | SL=4.31
+SELL ALOY | time=2025-01-22 15:51:00+00:00 | price=4.28 | shares=269 | gross_P&L=-85.84 | cost=7.17 | net_P&L=-93.00 | return=-7.49% | held=2min | reason=STOP_LOSS | portfolio=1150.61
+BUY ALOY | time=2025-01-22 16:02:00+00:00 | price=4.08 | shares=281 | signal=5.41% | cost=3.44 | TP=4.26 | SL=3.97
+SELL ALOY | time=2025-01-22 16:05:00+00:00 | price=3.83 | shares=281 | gross_P&L=-70.22 | cost=6.67 | net_P&L=-76.89 | return=-6.69% | held=3min | reason=STOP_LOSS | portfolio=1073.72
+BUY ALOY | time=2025-01-22 16:19:00+00:00 | price=3.93 | shares=272 | signal=6.79% | cost=3.21 | TP=4.14 | SL=3.80
+SELL ALOY | time=2025-01-22 16:24:00+00:00 | price=4.17 | shares=272 | gross_P&L=+63.92 | cost=6.61 | net_P&L=+57.31 | return=+5.35% | held=5min | reason=TAKE_PROFIT | portfolio=1131.03
+BUY ALOY | time=2025-01-22 16:25:00+00:00 | price=4.18 | shares=269 | signal=7.72% | cost=3.37 | TP=4.44 | SL=4.02
+SELL ALOY | time=2025-01-22 16:28:00+00:00 | price=3.98 | shares=269 | gross_P&L=-54.04 | cost=6.59 | net_P&L=-60.63 | return=-5.37% | held=3min | reason=STOP_LOSS | portfolio=1070.40
+BUY ALOY | time=2025-01-22 16:38:00+00:00 | price=4.01 | shares=266 | signal=6.09% | cost=3.20 | TP=4.21 | SL=3.89
+SELL ALOY | time=2025-01-22 16:40:00+00:00 | price=3.84 | shares=266 | gross_P&L=-46.23 | cost=6.26 | net_P&L=-52.49 | return=-4.91% | held=2min | reason=STOP_LOSS | portfolio=1017.91
+BUY ALOY | time=2025-01-22 17:10:00+00:00 | price=3.46 | shares=293 | signal=5.46% | cost=3.04 | TP=3.61 | SL=3.36
+SELL ALOY | time=2025-01-22 17:27:00+00:00 | price=3.32 | shares=293 | gross_P&L=-40.76 | cost=5.96 | net_P&L=-46.72 | return=-4.60% | held=17min | reason=STOP_LOSS | portfolio=971.20
+BUY ALOY | time=2025-01-22 17:36:00+00:00 | price=3.54 | shares=273 | signal=5.99% | cost=2.90 | TP=3.71 | SL=3.43
+SELL ALOY | time=2025-01-22 17:43:00+00:00 | price=3.71 | shares=273 | gross_P&L=+46.41 | cost=5.94 | net_P&L=+40.47 | return=+4.18% | held=7min | reason=TAKE_PROFIT | portfolio=1011.67
+BUY ALOY | time=2025-01-22 17:44:00+00:00 | price=3.76 | shares=268 | signal=6.50% | cost=3.02 | TP=3.96 | SL=3.64
+SELL ALOY | time=2025-01-22 17:53:00+00:00 | price=3.63 | shares=268 | gross_P&L=-34.87 | cost=5.94 | net_P&L=-40.81 | return=-4.04% | held=9min | reason=STOP_LOSS | portfolio=970.86
+BUY ALOY | time=2025-01-22 18:04:00+00:00 | price=3.80 | shares=254 | signal=5.41% | cost=2.90 | TP=3.96 | SL=3.70
+SELL ALOY | time=2025-01-22 18:09:00+00:00 | price=3.68 | shares=254 | gross_P&L=-30.48 | cost=5.70 | net_P&L=-36.18 | return=-3.74% | held=5min | reason=STOP_LOSS | portfolio=934.68
+BUY ALOY | time=2025-01-22 18:18:00+00:00 | price=3.93 | shares=237 | signal=5.64% | cost=2.79 | TP=4.11 | SL=3.82
+SELL ALOY | time=2025-01-22 18:22:00+00:00 | price=4.44 | shares=237 | gross_P&L=+121.04 | cost=5.95 | net_P&L=+115.08 | return=+12.32% | held=4min | reason=TAKE_PROFIT | portfolio=1049.76
+BUY ALOY | time=2025-01-22 18:23:00+00:00 | price=4.28 | shares=244 | signal=8.60% | cost=3.13 | TP=4.57 | SL=4.10
+SELL ALOY | time=2025-01-22 18:45:00+00:00 | price=4.06 | shares=244 | gross_P&L=-53.68 | cost=6.10 | net_P&L=-59.78 | return=-5.71% | held=22min | reason=STOP_LOSS | portfolio=989.98
+BUY ALOY | time=2025-01-22 18:55:00+00:00 | price=4.16 | shares=237 | signal=5.10% | cost=2.96 | TP=4.33 | SL=4.06
+SELL ALOY | time=2025-01-22 19:11:00+00:00 | price=4.01 | shares=237 | gross_P&L=-36.78 | cost=5.81 | net_P&L=-42.59 | return=-4.31% | held=16min | reason=STOP_LOSS | portfolio=947.39
+BUY ALOY | time=2025-01-22 19:18:00+00:00 | price=4.18 | shares=226 | signal=5.00% | cost=2.83 | TP=4.35 | SL=4.07
+SELL ALOY | time=2025-01-22 19:21:00+00:00 | price=4.49 | shares=226 | gross_P&L=+70.24 | cost=5.88 | net_P&L=+64.36 | return=+6.79% | held=3min | reason=TAKE_PROFIT | portfolio=1011.75
+BUY ALOY | time=2025-01-22 19:22:00+00:00 | price=4.44 | shares=227 | signal=6.24% | cost=3.02 | TP=4.66 | SL=4.30
+SELL ALOY | time=2025-01-22 19:23:00+00:00 | price=4.67 | shares=227 | gross_P&L=+51.07 | cost=6.20 | net_P&L=+44.87 | return=+4.44% | held=1min | reason=TAKE_PROFIT | portfolio=1056.63
+BUY ALOY | time=2025-01-22 19:24:00+00:00 | price=4.90 | shares=214 | signal=13.69% | cost=3.15 | TP=5.44 | SL=4.56
+SELL ALOY | time=2025-01-22 19:44:00+00:00 | price=5.71 | shares=214 | gross_P&L=+173.36 | cost=6.81 | net_P&L=+166.55 | return=+15.84% | held=20min | reason=TAKE_PROFIT | portfolio=1223.18
+BUY ALOY | time=2025-01-22 19:45:00+00:00 | price=5.43 | shares=224 | signal=6.06% | cost=3.65 | TP=5.69 | SL=5.27
+SELL ALOY | time=2025-01-22 19:53:00+00:00 | price=5.79 | shares=224 | gross_P&L=+80.71 | cost=7.54 | net_P&L=+73.17 | return=+6.00% | held=8min | reason=TAKE_PROFIT | portfolio=1296.34
+BUY ALOY | time=2025-01-22 19:54:00+00:00 | price=5.83 | shares=221 | signal=6.58% | cost=3.87 | TP=6.14 | SL=5.64
+SELL ALOY | time=2025-01-22 19:56:00+00:00 | price=5.61 | shares=221 | gross_P&L=-48.60 | cost=7.58 | net_P&L=-56.18 | return=-4.35% | held=2min | reason=STOP_LOSS | portfolio=1240.16
+BUY ALOY | time=2025-01-22 20:05:00+00:00 | price=5.78 | shares=213 | signal=6.15% | cost=3.69 | TP=6.06 | SL=5.60
+SELL ALOY | time=2025-01-22 20:13:00+00:00 | price=5.55 | shares=213 | gross_P&L=-48.52 | cost=7.24 | net_P&L=-55.76 | return=-4.52% | held=8min | reason=STOP_LOSS | portfolio=1184.40
+BUY ALOY | time=2025-01-22 20:25:00+00:00 | price=5.61 | shares=210 | signal=7.03% | cost=3.53 | TP=5.92 | SL=5.41
+SELL ALOY | time=2025-01-22 20:49:00+00:00 | price=5.29 | shares=210 | gross_P&L=-66.17 | cost=6.86 | net_P&L=-73.03 | return=-6.19% | held=24min | reason=STOP_LOSS | portfolio=1111.36
+BUY ALOY | time=2025-01-22 20:57:00+00:00 | price=5.40 | shares=205 | signal=6.91% | cost=3.32 | TP=5.70 | SL=5.21
+SELL ALOY | time=2025-01-22 20:59:00+00:00 | price=5.53 | shares=205 | gross_P&L=+26.59 | cost=6.72 | net_P&L=+19.87 | return=+1.79% | held=2min | reason=END_OF_DAY | portfolio=1131.23
+2025-01-22: 1131.230183300003
+BUY RCAT | time=2025-01-23 14:32:00+00:00 | price=9.20 | shares=122 | signal=5.55% | cost=3.37 | TP=9.61 | SL=8.95
+SELL RCAT | time=2025-01-23 14:57:00+00:00 | price=8.89 | shares=122 | gross_P&L=-38.34 | cost=6.62 | net_P&L=-44.97 | return=-3.99% | held=25min | reason=STOP_LOSS | portfolio=1086.26
+BUY MSTZ | time=2025-01-23 15:08:00+00:00 | price=13.67 | shares=79 | signal=5.64% | cost=3.24 | TP=14.29 | SL=13.28
+SELL MSTZ | time=2025-01-23 15:29:00+00:00 | price=13.26 | shares=79 | gross_P&L=-32.41 | cost=6.38 | net_P&L=-38.79 | return=-3.58% | held=21min | reason=STOP_LOSS | portfolio=1047.47
+BUY LTBR | time=2025-01-23 15:42:00+00:00 | price=7.58 | shares=137 | signal=5.20% | cost=3.12 | TP=7.89 | SL=7.38
+SELL LTBR | time=2025-01-23 15:48:00+00:00 | price=7.98 | shares=137 | gross_P&L=+54.85 | cost=6.39 | net_P&L=+48.46 | return=+4.65% | held=6min | reason=TAKE_PROFIT | portfolio=1095.93
+BUY LTBR | time=2025-01-23 15:49:00+00:00 | price=8.15 | shares=134 | signal=6.52% | cost=3.28 | TP=8.57 | SL=7.88
+SELL LTBR | time=2025-01-23 16:03:00+00:00 | price=8.65 | shares=134 | gross_P&L=+67.11 | cost=6.75 | net_P&L=+60.35 | return=+5.51% | held=14min | reason=TAKE_PROFIT | portfolio=1156.29
+BUY LTBR | time=2025-01-23 16:05:00+00:00 | price=8.70 | shares=132 | signal=5.07% | cost=3.45 | TP=9.05 | SL=8.48
+SELL LTBR | time=2025-01-23 16:48:00+00:00 | price=8.43 | shares=132 | gross_P&L=-35.64 | cost=6.78 | net_P&L=-42.42 | return=-3.68% | held=43min | reason=STOP_LOSS | portfolio=1113.87
+2025-01-23: 1113.8651403000035
+BUY HIMX | time=2025-01-24 14:34:00+00:00 | price=12.73 | shares=87 | signal=6.66% | cost=3.32 | TP=13.41 | SL=12.31
+SELL HIMX | time=2025-01-24 15:05:00+00:00 | price=13.47 | shares=87 | gross_P&L=+63.95 | cost=6.84 | net_P&L=+57.11 | return=+5.14% | held=31min | reason=TAKE_PROFIT | portfolio=1170.97
+2025-01-24: 1170.9706353000038
+BUY GEV | time=2025-01-27 14:32:00+00:00 | price=349.67 | shares=3 | signal=6.77% | cost=3.15 | TP=368.61 | SL=337.83
+SELL GEV | time=2025-01-27 14:40:00+00:00 | price=334.10 | shares=3 | gross_P&L=-46.71 | cost=6.15 | net_P&L=-52.86 | return=-5.02% | held=8min | reason=STOP_LOSS | portfolio=1118.11
+BUY VG | time=2025-01-27 20:58:00+00:00 | price=19.99 | shares=55 | signal=5.46% | cost=3.30 | TP=20.86 | SL=19.44
+SELL VG | time=2025-01-27 20:59:00+00:00 | price=19.93 | shares=55 | gross_P&L=-3.30 | cost=6.59 | net_P&L=-9.89 | return=-0.90% | held=1min | reason=END_OF_DAY | portfolio=1108.22
+2025-01-27: 1108.219905300004
+BUY XIFR | time=2025-01-28 14:52:00+00:00 | price=12.20 | shares=90 | signal=5.06% | cost=3.29 | TP=12.69 | SL=11.89
+SELL XIFR | time=2025-01-28 14:54:00+00:00 | price=11.88 | shares=90 | gross_P&L=-29.33 | cost=6.50 | net_P&L=-35.83 | return=-3.25% | held=2min | reason=STOP_LOSS | portfolio=1072.39
+2025-01-28: 1072.388412300004
+BUY HAPN | time=2025-01-29 14:33:00+00:00 | price=14.59 | shares=73 | signal=7.84% | cost=3.20 | TP=15.51 | SL=14.02
+SELL HAPN | time=2025-01-29 14:39:00+00:00 | price=13.98 | shares=73 | gross_P&L=-44.53 | cost=6.26 | net_P&L=-50.79 | return=-4.75% | held=6min | reason=STOP_LOSS | portfolio=1021.60
+BUY MSTU | time=2025-01-29 19:40:00+00:00 | price=9.59 | shares=106 | signal=5.04% | cost=3.05 | TP=9.98 | SL=9.35
+SELL MSTU | time=2025-01-29 20:16:00+00:00 | price=9.35 | shares=106 | gross_P&L=-25.97 | cost=6.02 | net_P&L=-31.99 | return=-3.14% | held=36min | reason=STOP_LOSS | portfolio=989.61
+2025-01-29: 989.610252300004
+BUY MBLY | time=2025-01-30 14:32:00+00:00 | price=15.67 | shares=62 | signal=5.17% | cost=2.91 | TP=16.32 | SL=15.27
+SELL MBLY | time=2025-01-30 14:43:00+00:00 | price=16.46 | shares=62 | gross_P&L=+49.29 | cost=5.98 | net_P&L=+43.31 | return=+4.44% | held=11min | reason=TAKE_PROFIT | portfolio=1032.92
+BUY MBLY | time=2025-01-30 14:44:00+00:00 | price=16.63 | shares=61 | signal=6.02% | cost=3.04 | TP=17.43 | SL=16.13
+SELL MBLY | time=2025-01-30 14:53:00+00:00 | price=15.94 | shares=61 | gross_P&L=-42.09 | cost=5.96 | net_P&L=-48.05 | return=-4.72% | held=9min | reason=STOP_LOSS | portfolio=984.87
+2025-01-30: 984.8728323000041
+BUY CIFR | time=2025-01-31 14:31:00+00:00 | price=5.87 | shares=167 | signal=5.03% | cost=2.94 | TP=6.10 | SL=5.72
+SELL CIFR | time=2025-01-31 14:45:00+00:00 | price=5.62 | shares=167 | gross_P&L=-40.90 | cost=5.75 | net_P&L=-46.65 | return=-4.75% | held=14min | reason=STOP_LOSS | portfolio=938.22
+2025-01-31: 938.220497200004
+BUY BTDR | time=2025-02-03 14:34:00+00:00 | price=17.20 | shares=54 | signal=5.26% | cost=2.79 | TP=17.92 | SL=16.75
+SELL BTDR | time=2025-02-03 14:38:00+00:00 | price=16.71 | shares=54 | gross_P&L=-26.46 | cost=5.49 | net_P&L=-31.95 | return=-3.43% | held=4min | reason=STOP_LOSS | portfolio=906.27
+2025-02-03: 906.2670772000042
+2025-02-04: 906.2670772000042
+BUY TEM | time=2025-02-05 14:34:00+00:00 | price=67.93 | shares=13 | signal=5.50% | cost=2.65 | TP=70.92 | SL=66.06
+SELL TEM | time=2025-02-05 15:34:00+00:00 | price=68.29 | shares=13 | gross_P&L=+4.63 | cost=5.31 | net_P&L=-0.68 | return=-0.08% | held=60min | reason=TIME_LIMIT | portfolio=905.59
+BUY QNTM | time=2025-02-05 16:14:00+00:00 | price=7.14 | shares=126 | signal=5.20% | cost=2.70 | TP=7.43 | SL=6.95
+SELL QNTM | time=2025-02-05 16:17:00+00:00 | price=6.91 | shares=126 | gross_P&L=-28.72 | cost=5.31 | net_P&L=-34.03 | return=-3.77% | held=3min | reason=STOP_LOSS | portfolio=871.56
+BUY QNTM | time=2025-02-05 16:20:00+00:00 | price=7.55 | shares=115 | signal=9.26% | cost=2.60 | TP=8.11 | SL=7.20
+SELL QNTM | time=2025-02-05 17:20:00+00:00 | price=7.27 | shares=115 | gross_P&L=-32.20 | cost=5.11 | net_P&L=-37.31 | return=-4.28% | held=60min | reason=TIME_LIMIT | portfolio=834.25
+BUY QNTM | time=2025-02-05 17:49:00+00:00 | price=8.37 | shares=99 | signal=5.41% | cost=2.49 | TP=8.74 | SL=8.15
+SELL QNTM | time=2025-02-05 17:56:00+00:00 | price=8.78 | shares=99 | gross_P&L=+40.48 | cost=5.10 | net_P&L=+35.39 | return=+4.26% | held=7min | reason=TAKE_PROFIT | portfolio=869.63
+BUY QNTM | time=2025-02-05 17:58:00+00:00 | price=9.40 | shares=92 | signal=9.05% | cost=2.59 | TP=10.08 | SL=8.97
+SELL QNTM | time=2025-02-05 18:12:00+00:00 | price=8.93 | shares=92 | gross_P&L=-43.24 | cost=5.06 | net_P&L=-48.30 | return=-5.57% | held=14min | reason=STOP_LOSS | portfolio=821.33
+BUY QNTM | time=2025-02-05 18:24:00+00:00 | price=9.92 | shares=82 | signal=8.25% | cost=2.44 | TP=10.57 | SL=9.51
+SELL QNTM | time=2025-02-05 18:25:00+00:00 | price=9.51 | shares=82 | gross_P&L=-33.63 | cost=4.78 | net_P&L=-38.41 | return=-4.71% | held=1min | reason=STOP_LOSS | portfolio=782.93
+BUY QNTM | time=2025-02-05 18:59:00+00:00 | price=8.93 | shares=87 | signal=5.56% | cost=2.33 | TP=9.33 | SL=8.68
+SELL QNTM | time=2025-02-05 19:01:00+00:00 | price=8.63 | shares=87 | gross_P&L=-25.66 | cost=4.58 | net_P&L=-30.25 | return=-3.88% | held=2min | reason=STOP_LOSS | portfolio=752.68
+2025-02-05: 752.6764906000042
+BUY AMSC | time=2025-02-06 14:32:00+00:00 | price=28.46 | shares=26 | signal=5.07% | cost=2.22 | TP=29.62 | SL=27.74
+SELL AMSC | time=2025-02-06 14:35:00+00:00 | price=30.36 | shares=26 | gross_P&L=+49.39 | cost=4.59 | net_P&L=+44.80 | return=+6.04% | held=3min | reason=TAKE_PROFIT | portfolio=797.48
+BUY AMSC | time=2025-02-06 14:36:00+00:00 | price=30.66 | shares=25 | signal=7.72% | cost=2.30 | TP=32.55 | SL=29.48
+SELL AMSC | time=2025-02-06 14:45:00+00:00 | price=32.77 | shares=25 | gross_P&L=+52.88 | cost=4.76 | net_P&L=+48.12 | return=+6.26% | held=9min | reason=TAKE_PROFIT | portfolio=845.59
+BUY ACB | time=2025-02-06 15:04:00+00:00 | price=5.77 | shares=146 | signal=5.29% | cost=2.53 | TP=6.01 | SL=5.62
+SELL ACB | time=2025-02-06 15:15:00+00:00 | price=6.04 | shares=146 | gross_P&L=+38.70 | cost=5.17 | net_P&L=+33.53 | return=+3.97% | held=11min | reason=TAKE_PROFIT | portfolio=879.13
+BUY TDOC | time=2025-02-06 15:28:00+00:00 | price=11.58 | shares=75 | signal=5.78% | cost=2.61 | TP=12.12 | SL=11.25
+SELL TDOC | time=2025-02-06 15:37:00+00:00 | price=12.14 | shares=75 | gross_P&L=+41.85 | cost=5.34 | net_P&L=+36.51 | return=+4.19% | held=9min | reason=TAKE_PROFIT | portfolio=915.64
+2025-02-06: 915.6390804000042
+BUY SERV | time=2025-02-07 14:32:00+00:00 | price=18.61 | shares=49 | signal=5.74% | cost=2.74 | TP=19.46 | SL=18.08
+SELL SERV | time=2025-02-07 15:04:00+00:00 | price=18.05 | shares=49 | gross_P&L=-27.44 | cost=5.39 | net_P&L=-32.83 | return=-3.59% | held=32min | reason=STOP_LOSS | portfolio=882.81
+BUY LTBR | time=2025-02-07 15:21:00+00:00 | price=11.09 | shares=79 | signal=5.57% | cost=2.63 | TP=11.58 | SL=10.78
+SELL LTBR | time=2025-02-07 15:35:00+00:00 | price=10.75 | shares=79 | gross_P&L=-26.47 | cost=5.17 | net_P&L=-31.64 | return=-3.60% | held=14min | reason=STOP_LOSS | portfolio=851.17
+BUY LTBR | time=2025-02-07 15:41:00+00:00 | price=11.55 | shares=73 | signal=6.69% | cost=2.53 | TP=12.17 | SL=11.17
+SELL LTBR | time=2025-02-07 15:43:00+00:00 | price=11.10 | shares=73 | gross_P&L=-33.22 | cost=4.96 | net_P&L=-38.18 | return=-4.51% | held=2min | reason=STOP_LOSS | portfolio=812.99
+2025-02-07: 812.9937204000042
+BUY AIOT | time=2025-02-10 14:31:00+00:00 | price=6.98 | shares=116 | signal=6.06% | cost=2.43 | TP=7.32 | SL=6.77
+SELL AIOT | time=2025-02-10 14:35:00+00:00 | price=7.42 | shares=116 | gross_P&L=+50.54 | cost=5.01 | net_P&L=+45.53 | return=+5.60% | held=4min | reason=TAKE_PROFIT | portfolio=858.52
+BUY PDYN | time=2025-02-10 14:36:00+00:00 | price=11.24 | shares=76 | signal=7.05% | cost=2.56 | TP=11.87 | SL=10.84
+SELL PDYN | time=2025-02-10 15:36:00+00:00 | price=11.59 | shares=76 | gross_P&L=+26.22 | cost=5.20 | net_P&L=+21.02 | return=+2.45% | held=60min | reason=TIME_LIMIT | portfolio=879.54
+2025-02-10: 879.5381240000041
+BUY TEM | time=2025-02-11 14:33:00+00:00 | price=71.86 | shares=12 | signal=5.23% | cost=2.59 | TP=74.86 | SL=69.98
+SELL TEM | time=2025-02-11 14:38:00+00:00 | price=75.30 | shares=12 | gross_P&L=+41.29 | cost=5.30 | net_P&L=+36.00 | return=+4.16% | held=5min | reason=TAKE_PROFIT | portfolio=915.53
+BUY ALAB | time=2025-02-11 14:39:00+00:00 | price=104.75 | shares=8 | signal=5.74% | cost=2.51 | TP=109.56 | SL=101.75
+SELL ALAB | time=2025-02-11 14:46:00+00:00 | price=99.86 | shares=8 | gross_P&L=-39.12 | cost=4.91 | net_P&L=-44.03 | return=-5.24% | held=7min | reason=STOP_LOSS | portfolio=871.50
+BUY SLQT | time=2025-02-11 14:51:00+00:00 | price=6.68 | shares=130 | signal=5.58% | cost=2.61 | TP=6.98 | SL=6.49
+SELL SLQT | time=2025-02-11 14:54:00+00:00 | price=6.37 | shares=130 | gross_P&L=-40.56 | cost=5.09 | net_P&L=-45.65 | return=-5.24% | held=3min | reason=STOP_LOSS | portfolio=825.85
+2025-02-11: 825.8542004000042
+BUY ANAB | time=2025-02-12 14:33:00+00:00 | price=13.57 | shares=60 | signal=6.85% | cost=2.44 | TP=14.31 | SL=13.11
+SELL ANAB | time=2025-02-12 14:41:00+00:00 | price=14.89 | shares=60 | gross_P&L=+79.20 | cost=5.12 | net_P&L=+74.08 | return=+9.07% | held=8min | reason=TAKE_PROFIT | portfolio=899.93
+BUY ANAB | time=2025-02-12 14:42:00+00:00 | price=15.12 | shares=59 | signal=7.37% | cost=2.68 | TP=16.01 | SL=14.56
+SELL ANAB | time=2025-02-12 15:04:00+00:00 | price=14.37 | shares=59 | gross_P&L=-44.11 | cost=5.22 | net_P&L=-49.33 | return=-5.51% | held=22min | reason=STOP_LOSS | portfolio=850.60
+BUY ANAB | time=2025-02-12 15:07:00+00:00 | price=15.31 | shares=55 | signal=6.54% | cost=2.53 | TP=16.11 | SL=14.81
+SELL ANAB | time=2025-02-12 15:10:00+00:00 | price=14.70 | shares=55 | gross_P&L=-33.55 | cost=4.95 | net_P&L=-38.50 | return=-4.56% | held=3min | reason=STOP_LOSS | portfolio=812.10
+2025-02-12: 812.1020452000041
+BUY VNET | time=2025-02-13 14:32:00+00:00 | price=11.18 | shares=72 | signal=6.17% | cost=2.41 | TP=11.73 | SL=10.83
+SELL VNET | time=2025-02-13 14:46:00+00:00 | price=10.83 | shares=72 | gross_P&L=-25.20 | cost=4.75 | net_P&L=-29.95 | return=-3.71% | held=14min | reason=STOP_LOSS | portfolio=782.15
+BUY ARM | time=2025-02-13 18:38:00+00:00 | price=162.90 | shares=4 | signal=5.14% | cost=1.95 | TP=169.59 | SL=158.72
+SELL ARM | time=2025-02-13 19:38:00+00:00 | price=162.93 | shares=4 | gross_P&L=+0.12 | cost=3.91 | net_P&L=-3.79 | return=-0.58% | held=60min | reason=TIME_LIMIT | portfolio=778.36
+2025-02-13: 778.357925200004
+BUY RXRX | time=2025-02-14 14:32:00+00:00 | price=9.97 | shares=77 | signal=6.85% | cost=2.30 | TP=10.51 | SL=9.63
+SELL RXRX | time=2025-02-14 14:44:00+00:00 | price=9.51 | shares=77 | gross_P&L=-35.32 | cost=4.50 | net_P&L=-39.82 | return=-5.17% | held=12min | reason=STOP_LOSS | portfolio=738.54
+BUY SOUN | time=2025-02-14 14:45:00+00:00 | price=11.26 | shares=65 | signal=5.89% | cost=2.19 | TP=11.79 | SL=10.92
+SELL SOUN | time=2025-02-14 14:47:00+00:00 | price=10.92 | shares=65 | gross_P&L=-21.77 | cost=4.32 | net_P&L=-26.09 | return=-3.56% | held=2min | reason=STOP_LOSS | portfolio=712.45
+BUY AIFF | time=2025-02-14 14:50:00+00:00 | price=11.68 | shares=60 | signal=5.09% | cost=2.10 | TP=12.15 | SL=11.38
+SELL AIFF | time=2025-02-14 14:52:00+00:00 | price=11.37 | shares=60 | gross_P&L=-18.60 | cost=4.15 | net_P&L=-22.75 | return=-3.24% | held=2min | reason=STOP_LOSS | portfolio=689.70
+BUY AIFF | time=2025-02-14 14:58:00+00:00 | price=12.11 | shares=56 | signal=6.04% | cost=2.03 | TP=12.69 | SL=11.74
+SELL AIFF | time=2025-02-14 15:11:00+00:00 | price=11.69 | shares=56 | gross_P&L=-23.52 | cost=4.00 | net_P&L=-27.52 | return=-4.05% | held=13min | reason=STOP_LOSS | portfolio=662.18
+BUY DELL | time=2025-02-14 18:09:00+00:00 | price=116.42 | shares=5 | signal=5.91% | cost=1.75 | TP=121.93 | SL=112.98
+SELL DELL | time=2025-02-14 19:09:00+00:00 | price=114.36 | shares=5 | gross_P&L=-10.30 | cost=3.46 | net_P&L=-13.76 | return=-2.36% | held=60min | reason=TIME_LIMIT | portfolio=648.42
+2025-02-14: 648.4185010000037
+BUY GCL | time=2025-02-18 14:31:00+00:00 | price=4.82 | shares=134 | signal=5.93% | cost=1.94 | TP=5.05 | SL=4.68
+SELL GCL | time=2025-02-18 14:33:00+00:00 | price=4.65 | shares=134 | gross_P&L=-22.91 | cost=3.81 | net_P&L=-26.72 | return=-4.12% | held=2min | reason=STOP_LOSS | portfolio=621.70
+BUY BKSY | time=2025-02-18 14:34:00+00:00 | price=18.82 | shares=32 | signal=7.48% | cost=1.81 | TP=19.95 | SL=18.12
+SELL BKSY | time=2025-02-18 14:52:00+00:00 | price=20.01 | shares=32 | gross_P&L=+38.08 | cost=3.73 | net_P&L=+34.35 | return=+5.69% | held=18min | reason=TAKE_PROFIT | portfolio=656.05
+BUY GCL | time=2025-02-18 14:53:00+00:00 | price=5.15 | shares=127 | signal=5.97% | cost=1.96 | TP=5.40 | SL=5.00
+SELL GCL | time=2025-02-18 14:54:00+00:00 | price=4.89 | shares=127 | gross_P&L=-33.02 | cost=3.83 | net_P&L=-36.85 | return=-5.62% | held=1min | reason=STOP_LOSS | portfolio=619.21
+BUY GCL | time=2025-02-18 14:59:00+00:00 | price=5.19 | shares=118 | signal=5.40% | cost=1.84 | TP=5.41 | SL=5.05
+SELL GCL | time=2025-02-18 15:00:00+00:00 | price=4.94 | shares=118 | gross_P&L=-29.50 | cost=3.59 | net_P&L=-33.09 | return=-5.39% | held=1min | reason=STOP_LOSS | portfolio=586.12
+BUY GCL | time=2025-02-18 15:13:00+00:00 | price=5.93 | shares=98 | signal=17.33% | cost=1.74 | TP=6.75 | SL=5.42
+SELL GCL | time=2025-02-18 15:20:00+00:00 | price=5.29 | shares=98 | gross_P&L=-63.17 | cost=3.30 | net_P&L=-66.47 | return=-11.40% | held=7min | reason=STOP_LOSS | portfolio=519.65
+BUY GCL | time=2025-02-18 15:29:00+00:00 | price=5.87 | shares=88 | signal=7.90% | cost=1.55 | TP=6.24 | SL=5.64
+SELL GCL | time=2025-02-18 15:37:00+00:00 | price=6.25 | shares=88 | gross_P&L=+33.46 | cost=3.20 | net_P&L=+30.26 | return=+5.84% | held=8min | reason=TAKE_PROFIT | portfolio=549.91
+BUY GCL | time=2025-02-18 15:38:00+00:00 | price=6.58 | shares=83 | signal=16.25% | cost=1.64 | TP=7.44 | SL=6.05
+SELL GCL | time=2025-02-18 16:01:00+00:00 | price=7.61 | shares=83 | gross_P&L=+85.48 | cost=3.53 | net_P&L=+81.95 | return=+14.96% | held=23min | reason=TAKE_PROFIT | portfolio=631.86
+BUY GCL | time=2025-02-18 16:02:00+00:00 | price=7.42 | shares=84 | signal=7.62% | cost=1.87 | TP=7.87 | SL=7.13
+SELL GCL | time=2025-02-18 16:04:00+00:00 | price=7.92 | shares=84 | gross_P&L=+42.45 | cost=3.86 | net_P&L=+38.59 | return=+6.18% | held=2min | reason=TAKE_PROFIT | portfolio=670.45
+BUY GCL | time=2025-02-18 16:05:00+00:00 | price=8.25 | shares=81 | signal=11.25% | cost=2.00 | TP=8.99 | SL=7.79
+SELL GCL | time=2025-02-18 16:10:00+00:00 | price=9.05 | shares=81 | gross_P&L=+64.88 | cost=4.20 | net_P&L=+60.68 | return=+9.05% | held=5min | reason=TAKE_PROFIT | portfolio=731.12
+BUY GCL | time=2025-02-18 16:11:00+00:00 | price=9.13 | shares=79 | signal=9.40% | cost=2.16 | TP=9.82 | SL=8.71
+SELL GCL | time=2025-02-18 16:14:00+00:00 | price=8.21 | shares=79 | gross_P&L=-73.04 | cost=4.11 | net_P&L=-77.15 | return=-10.66% | held=3min | reason=STOP_LOSS | portfolio=653.97
+BUY GCL | time=2025-02-18 16:21:00+00:00 | price=8.55 | shares=76 | signal=8.03% | cost=1.95 | TP=9.10 | SL=8.21
+SELL GCL | time=2025-02-18 16:32:00+00:00 | price=9.37 | shares=76 | gross_P&L=+61.99 | cost=4.08 | net_P&L=+57.91 | return=+8.89% | held=11min | reason=TAKE_PROFIT | portfolio=711.88
+BUY GCL | time=2025-02-18 16:33:00+00:00 | price=9.36 | shares=75 | signal=7.46% | cost=2.11 | TP=9.92 | SL=9.01
+SELL GCL | time=2025-02-18 16:34:00+00:00 | price=8.94 | shares=75 | gross_P&L=-31.16 | cost=4.12 | net_P&L=-35.28 | return=-5.01% | held=1min | reason=STOP_LOSS | portfolio=676.60
+BUY GCL | time=2025-02-18 16:36:00+00:00 | price=9.53 | shares=70 | signal=6.55% | cost=2.00 | TP=10.03 | SL=9.22
+SELL GCL | time=2025-02-18 16:43:00+00:00 | price=8.81 | shares=70 | gross_P&L=-50.40 | cost=3.85 | net_P&L=-54.25 | return=-8.11% | held=7min | reason=STOP_LOSS | portfolio=622.35
+BUY GCL | time=2025-02-18 17:13:00+00:00 | price=8.18 | shares=75 | signal=5.09% | cost=1.84 | TP=8.51 | SL=7.97
+SELL GCL | time=2025-02-18 17:31:00+00:00 | price=7.75 | shares=75 | gross_P&L=-32.25 | cost=3.58 | net_P&L=-35.83 | return=-5.82% | held=18min | reason=STOP_LOSS | portfolio=586.51
+BUY GCL | time=2025-02-18 19:07:00+00:00 | price=7.48 | shares=78 | signal=5.50% | cost=1.75 | TP=7.81 | SL=7.27
+SELL GCL | time=2025-02-18 19:08:00+00:00 | price=7.92 | shares=78 | gross_P&L=+34.33 | cost=3.60 | net_P&L=+30.72 | return=+5.25% | held=1min | reason=TAKE_PROFIT | portfolio=617.24
+BUY GCL | time=2025-02-18 19:09:00+00:00 | price=7.96 | shares=77 | signal=11.17% | cost=1.84 | TP=8.67 | SL=7.52
+SELL GCL | time=2025-02-18 19:36:00+00:00 | price=7.51 | shares=77 | gross_P&L=-34.65 | cost=3.57 | net_P&L=-38.22 | return=-6.22% | held=27min | reason=STOP_LOSS | portfolio=579.01
+BUY GCL | time=2025-02-18 19:43:00+00:00 | price=7.82 | shares=73 | signal=5.68% | cost=1.71 | TP=8.18 | SL=7.60
+SELL GCL | time=2025-02-18 19:52:00+00:00 | price=7.56 | shares=73 | gross_P&L=-18.98 | cost=3.37 | net_P&L=-22.35 | return=-3.90% | held=9min | reason=STOP_LOSS | portfolio=556.66
+BUY GCL | time=2025-02-18 20:01:00+00:00 | price=7.36 | shares=75 | signal=5.29% | cost=1.66 | TP=7.67 | SL=7.17
+SELL GCL | time=2025-02-18 20:09:00+00:00 | price=7.09 | shares=75 | gross_P&L=-20.24 | cost=3.25 | net_P&L=-23.49 | return=-4.24% | held=8min | reason=STOP_LOSS | portfolio=533.17
+BUY SEPN | time=2025-02-18 20:39:00+00:00 | price=6.52 | shares=81 | signal=5.33% | cost=1.58 | TP=6.80 | SL=6.35
+SELL SEPN | time=2025-02-18 20:46:00+00:00 | price=6.32 | shares=81 | gross_P&L=-16.20 | cost=3.12 | net_P&L=-19.32 | return=-3.65% | held=7min | reason=STOP_LOSS | portfolio=513.85
+2025-02-18: 513.8497815000038
+BUY SLDB | time=2025-02-19 14:32:00+00:00 | price=5.85 | shares=87 | signal=6.75% | cost=1.53 | TP=6.17 | SL=5.65
+SELL SLDB | time=2025-02-19 14:40:00+00:00 | price=6.27 | shares=87 | gross_P&L=+36.73 | cost=3.16 | net_P&L=+33.57 | return=+6.58% | held=8min | reason=TAKE_PROFIT | portfolio=547.42
+BUY SLDB | time=2025-02-19 14:41:00+00:00 | price=6.30 | shares=86 | signal=7.60% | cost=1.63 | TP=6.68 | SL=6.06
+SELL SLDB | time=2025-02-19 14:42:00+00:00 | price=6.00 | shares=86 | gross_P&L=-25.79 | cost=3.17 | net_P&L=-28.96 | return=-5.33% | held=1min | reason=STOP_LOSS | portfolio=518.45
+BUY VNET | time=2025-02-19 14:51:00+00:00 | price=14.04 | shares=36 | signal=5.84% | cost=1.52 | TP=14.70 | SL=13.63
+SELL VNET | time=2025-02-19 14:55:00+00:00 | price=13.55 | shares=36 | gross_P&L=-17.64 | cost=2.98 | net_P&L=-20.62 | return=-4.07% | held=4min | reason=STOP_LOSS | portfolio=497.83
+BUY SMCX | time=2025-02-19 14:58:00+00:00 | price=117.50 | shares=4 | signal=5.11% | cost=1.41 | TP=122.30 | SL=114.50
+SELL SMCX | time=2025-02-19 15:21:00+00:00 | price=122.60 | shares=4 | gross_P&L=+20.39 | cost=2.88 | net_P&L=+17.51 | return=+3.71% | held=23min | reason=TAKE_PROFIT | portfolio=515.34
+BUY QUBT | time=2025-02-19 16:02:00+00:00 | price=7.71 | shares=66 | signal=6.87% | cost=1.53 | TP=8.13 | SL=7.44
+SELL QUBT | time=2025-02-19 16:04:00+00:00 | price=8.19 | shares=66 | gross_P&L=+31.68 | cost=3.15 | net_P&L=+28.53 | return=+5.59% | held=2min | reason=TAKE_PROFIT | portfolio=543.87
+BUY QUBT | time=2025-02-19 16:05:00+00:00 | price=8.24 | shares=65 | signal=9.59% | cost=1.61 | TP=8.87 | SL=7.85
+SELL QUBT | time=2025-02-19 16:17:00+00:00 | price=7.75 | shares=65 | gross_P&L=-31.93 | cost=3.12 | net_P&L=-35.05 | return=-6.52% | held=12min | reason=STOP_LOSS | portfolio=508.83
+BUY SMCX | time=2025-02-19 20:30:00+00:00 | price=120.12 | shares=4 | signal=8.12% | cost=1.44 | TP=127.92 | SL=115.24
+SELL SMCX | time=2025-02-19 20:56:00+00:00 | price=129.30 | shares=4 | gross_P&L=+36.72 | cost=2.99 | net_P&L=+33.73 | return=+7.00% | held=26min | reason=TAKE_PROFIT | portfolio=542.56
+2025-02-19: 542.5553727000042
+BUY NBIS | time=2025-02-20 14:34:00+00:00 | price=42.62 | shares=12 | signal=6.15% | cost=1.53 | TP=44.72 | SL=41.31
+SELL NBIS | time=2025-02-20 14:44:00+00:00 | price=41.25 | shares=12 | gross_P&L=-16.43 | cost=3.02 | net_P&L=-19.45 | return=-3.79% | held=10min | reason=STOP_LOSS | portfolio=523.11
+BUY HLF | time=2025-02-20 14:48:00+00:00 | price=7.70 | shares=67 | signal=5.62% | cost=1.55 | TP=8.05 | SL=7.48
+SELL HLF | time=2025-02-20 14:54:00+00:00 | price=7.39 | shares=67 | gross_P&L=-20.94 | cost=3.03 | net_P&L=-23.98 | return=-4.63% | held=6min | reason=STOP_LOSS | portfolio=499.13
+BUY PLTU | time=2025-02-20 15:03:00+00:00 | price=41.32 | shares=12 | signal=5.81% | cost=1.49 | TP=43.24 | SL=40.12
+SELL PLTU | time=2025-02-20 15:18:00+00:00 | price=43.82 | shares=12 | gross_P&L=+29.99 | cost=3.06 | net_P&L=+26.92 | return=+5.41% | held=15min | reason=TAKE_PROFIT | portfolio=526.05
+BUY DLTR | time=2025-02-20 18:33:00+00:00 | price=76.53 | shares=6 | signal=6.14% | cost=1.38 | TP=80.29 | SL=74.18
+SELL DLTR | time=2025-02-20 19:33:00+00:00 | price=76.29 | shares=6 | gross_P&L=-1.46 | cost=2.75 | net_P&L=-4.21 | return=-0.91% | held=60min | reason=TIME_LIMIT | portfolio=521.84
+2025-02-20: 521.8354677000042
+BUY CENX | time=2025-02-21 14:31:00+00:00 | price=19.38 | shares=26 | signal=6.31% | cost=1.51 | TP=20.36 | SL=18.77
+SELL CENX | time=2025-02-21 14:32:00+00:00 | price=18.50 | shares=26 | gross_P&L=-22.88 | cost=2.95 | net_P&L=-25.83 | return=-5.11% | held=1min | reason=STOP_LOSS | portfolio=496.00
+BUY CENX | time=2025-02-21 14:33:00+00:00 | price=19.35 | shares=25 | signal=6.14% | cost=1.45 | TP=20.30 | SL=18.76
+SELL CENX | time=2025-02-21 14:47:00+00:00 | price=18.51 | shares=25 | gross_P&L=-21.00 | cost=2.84 | net_P&L=-23.84 | return=-4.91% | held=14min | reason=STOP_LOSS | portfolio=472.16
+BUY HIMS | time=2025-02-21 15:10:00+00:00 | price=54.99 | shares=8 | signal=6.04% | cost=1.32 | TP=57.65 | SL=53.33
+SELL HIMS | time=2025-02-21 15:30:00+00:00 | price=53.30 | shares=8 | gross_P&L=-13.52 | cost=2.60 | net_P&L=-16.12 | return=-3.65% | held=20min | reason=STOP_LOSS | portfolio=456.04
+BUY VKTX | time=2025-02-21 17:24:00+00:00 | price=33.25 | shares=13 | signal=5.08% | cost=1.30 | TP=34.60 | SL=32.40
+SELL VKTX | time=2025-02-21 17:31:00+00:00 | price=35.54 | shares=13 | gross_P&L=+29.79 | cost=2.68 | net_P&L=+27.11 | return=+6.25% | held=7min | reason=TAKE_PROFIT | portfolio=483.16
+BUY VKTX | time=2025-02-21 17:41:00+00:00 | price=35.40 | shares=13 | signal=5.51% | cost=1.38 | TP=36.96 | SL=34.42
+SELL VKTX | time=2025-02-21 17:45:00+00:00 | price=34.10 | shares=13 | gross_P&L=-16.84 | cost=2.71 | net_P&L=-19.55 | return=-4.23% | held=4min | reason=STOP_LOSS | portfolio=463.61
+BUY MRNA | time=2025-02-21 17:50:00+00:00 | price=35.65 | shares=12 | signal=5.35% | cost=1.28 | TP=37.18 | SL=34.70
+SELL MRNA | time=2025-02-21 18:01:00+00:00 | price=34.67 | shares=12 | gross_P&L=-11.76 | cost=2.53 | net_P&L=-14.29 | return=-3.33% | held=11min | reason=STOP_LOSS | portfolio=449.32
+2025-02-21: 449.3196093000041
+BUY TEM | time=2025-02-24 14:34:00+00:00 | price=73.24 | shares=6 | signal=5.47% | cost=1.32 | TP=76.45 | SL=71.24
+SELL TEM | time=2025-02-24 14:37:00+00:00 | price=70.71 | shares=6 | gross_P&L=-15.18 | cost=2.59 | net_P&L=-17.77 | return=-4.03% | held=3min | reason=STOP_LOSS | portfolio=431.55
+BUY VNET | time=2025-02-24 14:43:00+00:00 | price=12.52 | shares=34 | signal=5.04% | cost=1.28 | TP=13.02 | SL=12.20
+SELL VNET | time=2025-02-24 14:52:00+00:00 | price=12.18 | shares=34 | gross_P&L=-11.56 | cost=2.52 | net_P&L=-14.08 | return=-3.30% | held=9min | reason=STOP_LOSS | portfolio=417.47
+BUY MSTU | time=2025-02-24 15:10:00+00:00 | price=6.41 | shares=64 | signal=5.19% | cost=1.23 | TP=6.67 | SL=6.24
+SELL MSTU | time=2025-02-24 15:47:00+00:00 | price=6.24 | shares=64 | gross_P&L=-10.68 | cost=2.43 | net_P&L=-13.11 | return=-3.19% | held=37min | reason=STOP_LOSS | portfolio=404.36
+BUY TH | time=2025-02-24 16:39:00+00:00 | price=4.27 | shares=94 | signal=5.71% | cost=1.20 | TP=4.47 | SL=4.15
+SELL TH | time=2025-02-24 16:44:00+00:00 | price=4.47 | shares=94 | gross_P&L=+18.72 | cost=2.46 | net_P&L=+16.26 | return=+4.04% | held=5min | reason=TAKE_PROFIT | portfolio=420.62
+2025-02-24: 420.62395750000405
+BUY TEM | time=2025-02-25 14:32:00+00:00 | price=62.19 | shares=6 | signal=8.65% | cost=1.12 | TP=66.50 | SL=59.50
+SELL TEM | time=2025-02-25 15:03:00+00:00 | price=59.41 | shares=6 | gross_P&L=-16.69 | cost=2.19 | net_P&L=-18.88 | return=-5.05% | held=31min | reason=STOP_LOSS | portfolio=401.74
+2025-02-25: 401.7412549000041
+BUY PRCH | time=2025-02-26 14:31:00+00:00 | price=5.28 | shares=75 | signal=5.81% | cost=1.19 | TP=5.53 | SL=5.13
+SELL PRCH | time=2025-02-26 15:03:00+00:00 | price=5.67 | shares=75 | gross_P&L=+29.25 | cost=2.46 | net_P&L=+26.79 | return=+6.74% | held=32min | reason=TAKE_PROFIT | portfolio=428.53
+BUY PRCH | time=2025-02-26 15:04:00+00:00 | price=5.82 | shares=73 | signal=8.79% | cost=1.27 | TP=6.23 | SL=5.56
+SELL PRCH | time=2025-02-26 15:13:00+00:00 | price=5.53 | shares=73 | gross_P&L=-21.17 | cost=2.49 | net_P&L=-23.66 | return=-5.55% | held=9min | reason=STOP_LOSS | portfolio=404.87
+BUY RILY | time=2025-02-26 16:47:00+00:00 | price=5.30 | shares=76 | signal=5.47% | cost=1.21 | TP=5.53 | SL=5.15
+SELL RILY | time=2025-02-26 17:04:00+00:00 | price=5.55 | shares=76 | gross_P&L=+18.72 | cost=2.47 | net_P&L=+16.25 | return=+4.02% | held=17min | reason=TAKE_PROFIT | portfolio=421.12
+2025-02-26: 421.117698500004
+BUY NVAX | time=2025-02-27 14:32:00+00:00 | price=8.22 | shares=51 | signal=6.25% | cost=1.26 | TP=8.63 | SL=7.97
+SELL NVAX | time=2025-02-27 14:35:00+00:00 | price=7.92 | shares=51 | gross_P&L=-15.48 | cost=2.47 | net_P&L=-17.95 | return=-4.27% | held=3min | reason=STOP_LOSS | portfolio=403.17
+BUY RILY | time=2025-02-27 14:38:00+00:00 | price=6.90 | shares=58 | signal=7.64% | cost=1.20 | TP=7.32 | SL=6.64
+SELL RILY | time=2025-02-27 15:10:00+00:00 | price=6.62 | shares=58 | gross_P&L=-16.18 | cost=2.35 | net_P&L=-18.53 | return=-4.62% | held=32min | reason=STOP_LOSS | portfolio=384.63
+2025-02-27: 384.634589000004
+BUY ORGO | time=2025-02-28 14:31:00+00:00 | price=4.70 | shares=81 | signal=8.29% | cost=1.14 | TP=5.01 | SL=4.51
+SELL ORGO | time=2025-02-28 14:34:00+00:00 | price=5.07 | shares=81 | gross_P&L=+30.23 | cost=2.37 | net_P&L=+27.85 | return=+7.29% | held=3min | reason=TAKE_PROFIT | portfolio=412.49
+BUY ORGO | time=2025-02-28 14:35:00+00:00 | price=5.18 | shares=79 | signal=10.21% | cost=1.23 | TP=5.60 | SL=4.92
+SELL ORGO | time=2025-02-28 14:47:00+00:00 | price=5.68 | shares=79 | gross_P&L=+39.50 | cost=2.57 | net_P&L=+36.93 | return=+9.00% | held=12min | reason=TAKE_PROFIT | portfolio=449.42
+BUY ORGO | time=2025-02-28 14:48:00+00:00 | price=5.57 | shares=80 | signal=7.70% | cost=1.34 | TP=5.91 | SL=5.36
+SELL ORGO | time=2025-02-28 14:49:00+00:00 | price=5.29 | shares=80 | gross_P&L=-22.40 | cost=2.61 | net_P&L=-25.01 | return=-5.60% | held=1min | reason=STOP_LOSS | portfolio=424.41
+BUY ORGO | time=2025-02-28 15:05:00+00:00 | price=5.12 | shares=82 | signal=5.32% | cost=1.26 | TP=5.34 | SL=4.98
+SELL ORGO | time=2025-02-28 15:07:00+00:00 | price=5.37 | shares=82 | gross_P&L=+20.51 | cost=2.58 | net_P&L=+17.93 | return=+4.26% | held=2min | reason=TAKE_PROFIT | portfolio=442.34
+BUY ORGO | time=2025-02-28 15:22:00+00:00 | price=5.21 | shares=84 | signal=6.11% | cost=1.31 | TP=5.46 | SL=5.05
+SELL ORGO | time=2025-02-28 15:25:00+00:00 | price=5.47 | shares=84 | gross_P&L=+21.74 | cost=2.69 | net_P&L=+19.05 | return=+4.34% | held=3min | reason=TAKE_PROFIT | portfolio=461.38
+BUY ORGO | time=2025-02-28 20:50:00+00:00 | price=5.98 | shares=76 | signal=6.56% | cost=1.36 | TP=6.29 | SL=5.78
+SELL ORGO | time=2025-02-28 20:59:00+00:00 | price=6.21 | shares=76 | gross_P&L=+17.56 | cost=2.78 | net_P&L=+14.78 | return=+3.24% | held=9min | reason=END_OF_DAY | portfolio=476.16
+2025-02-28: 476.1613672000038
+BUY RC | time=2025-03-03 14:32:00+00:00 | price=5.63 | shares=84 | signal=5.04% | cost=1.42 | TP=5.86 | SL=5.49
+SELL RC | time=2025-03-03 14:33:00+00:00 | price=5.44 | shares=84 | gross_P&L=-15.95 | cost=2.79 | net_P&L=-18.74 | return=-3.95% | held=1min | reason=STOP_LOSS | portfolio=457.42
+BUY TGTX | time=2025-03-03 14:34:00+00:00 | price=32.77 | shares=13 | signal=6.73% | cost=1.28 | TP=34.53 | SL=31.67
+SELL TGTX | time=2025-03-03 14:53:00+00:00 | price=34.64 | shares=13 | gross_P&L=+24.31 | cost=2.63 | net_P&L=+21.68 | return=+5.07% | held=19min | reason=TAKE_PROFIT | portfolio=479.10
+BUY SMST | time=2025-03-03 14:54:00+00:00 | price=6.28 | shares=76 | signal=6.62% | cost=1.43 | TP=6.61 | SL=6.07
+SELL SMST | time=2025-03-03 14:59:00+00:00 | price=6.65 | shares=76 | gross_P&L=+28.12 | cost=2.95 | net_P&L=+25.17 | return=+5.26% | held=5min | reason=TAKE_PROFIT | portfolio=504.27
+BUY MSTX | time=2025-03-03 15:23:00+00:00 | price=26.55 | shares=18 | signal=5.06% | cost=1.43 | TP=27.62 | SL=25.88
+SELL MSTX | time=2025-03-03 15:32:00+00:00 | price=25.73 | shares=18 | gross_P&L=-14.76 | cost=2.82 | net_P&L=-17.58 | return=-3.67% | held=9min | reason=STOP_LOSS | portfolio=486.69
+BUY SMST | time=2025-03-03 15:33:00+00:00 | price=6.85 | shares=70 | signal=5.22% | cost=1.44 | TP=7.14 | SL=6.67
+SELL SMST | time=2025-03-03 15:50:00+00:00 | price=7.14 | shares=70 | gross_P&L=+20.29 | cost=2.94 | net_P&L=+17.36 | return=+3.61% | held=17min | reason=TAKE_PROFIT | portfolio=504.05
